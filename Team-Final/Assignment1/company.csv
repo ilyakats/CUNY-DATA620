@@ -1,0 +1,139 @@
+srcCompany,dstCompany
+Morgan Stanley,Facebook Inc
+Norfolk Southern,Facebook Inc
+Norfolk Southern,Morgan Stanley
+Netflix Inc,Facebook Inc
+Ingredion Incorporated,Balchem Corporation
+Facebook Inc,Balchem Corporation
+Facebook Inc,Ingredion Incorporated
+Walt Disney,Facebook Inc
+General Motors Company,Hewlett Packard
+Broadridge Financial Solutions Inc,CDK Global Inc
+Hewlett Packard,CDK Global Inc
+Merck & Company Inc,CDK Global Inc
+Hewlett Packard,Broadridge Financial Solutions Inc
+Merck & Company Inc,Broadridge Financial Solutions Inc
+Merck & Company Inc,Hewlett Packard
+Cadence Design Systems Inc,Ambarella Inc
+Quantenna Communications Inc,Ambarella Inc
+Hewlett Packard,Ambarella Inc
+Semiconductor Manufacturing International Corporation,Ambarella Inc
+Quantenna Communications Inc,Cadence Design Systems Inc
+Hewlett Packard,Cadence Design Systems Inc
+Semiconductor Manufacturing International Corporation,Cadence Design Systems Inc
+Hewlett Packard,Quantenna Communications Inc
+Semiconductor Manufacturing International Corporation,Quantenna Communications Inc
+Semiconductor Manufacturing International Corporation,Hewlett Packard
+Citigroup Inc,Box Inc
+Hewlett Packard,Box Inc
+Hewlett Packard,Citigroup Inc
+Hewlett Packard,CSX Corporation
+Hewlett Packard,Juno Therapeutics Inc
+HP Inc,Hewlett Packard
+Procter & Gamble Company ,Hewlett Packard
+Procter & Gamble Company ,HP Inc
+Hewlett Packard,Umpqua Holdings Corporation
+Duke Energy Corporation,Groupon Inc
+Hewlett Packard,Groupon Inc
+TriNet Group Inc,Groupon Inc
+Hewlett Packard,Duke Energy Corporation
+TriNet Group Inc,Duke Energy Corporation
+TriNet Group Inc,Hewlett Packard
+Hewlett Packard,QUALCOMM Incorporated
+United Parcel Service Inc,QUALCOMM Incorporated
+United Parcel Service Inc,Hewlett Packard
+General Motors Company,Arconic Inc
+Hewlett Packard,Arconic Inc
+KKR & Co LP,Arconic Inc
+Merck & Company Inc,Arconic Inc
+KKR & Co LP,General Motors Company
+Merck & Company Inc,General Motors Company
+KKR & Co LP,Hewlett Packard
+Merck & Company Inc,KKR & Co LP
+Hewlett Packard,Facebook Inc
+Allstate Corporation ,eBay Inc
+Morgan Stanley,eBay Inc
+Morgan Stanley,Allstate Corporation 
+Morgan Stanley,Caterpillar Inc
+Valero Energy Corporation,Caterpillar Inc
+Valero Energy Corporation,Morgan Stanley
+Morgan Stanley,Merck & Company Inc
+Workiva Inc,Morgan Stanley
+International Business Machines Corporation,Alcoa Corporation
+Morgan Stanley,Alcoa Corporation
+Morgan Stanley,International Business Machines Corporation
+Morgan Stanley,Mitsubishi UFJ Financial Group Inc
+Regal Entertainment Group,Norfolk Southern
+Norfolk Southern,Nike Inc
+Northrop Grumman Corporation,Norfolk Southern
+Delta Air Lines Inc,Texas Instruments Incorporated
+Norfolk Southern,Texas Instruments Incorporated
+Norfolk Southern,Delta Air Lines Inc
+National Oilwell Varco Inc,Marathon Oil Corporation
+Norfolk Southern,Marathon Oil Corporation
+Norfolk Southern,National Oilwell Varco Inc
+Jones Lang LaSalle Incorporated,American Airlines Group Inc
+Norfolk Southern,American Airlines Group Inc
+Norfolk Southern,Jones Lang LaSalle Incorporated
+Norfolk Southern,Cenovus Energy Inc
+USG Corporation,Cenovus Energy Inc
+USG Corporation,Norfolk Southern
+Glu Mobile Inc,Alphabet Inc
+Netflix Inc,Alphabet Inc
+Shutterfly Inc,Alphabet Inc
+Arista Networks Inc,Alphabet Inc
+Netflix Inc,Glu Mobile Inc
+Shutterfly Inc,Glu Mobile Inc
+Arista Networks Inc,Glu Mobile Inc
+Shutterfly Inc,Netflix Inc
+Arista Networks Inc,Netflix Inc
+Arista Networks Inc,Shutterfly Inc
+Netflix Inc,2U Inc
+Netflix Inc,Expedia Inc
+Fair Isaac Corporation,Expedia Inc
+Workday Inc,Expedia Inc
+Fair Isaac Corporation,Netflix Inc
+Workday Inc,Netflix Inc
+Workday Inc,Fair Isaac Corporation
+Netflix Inc,Liberty Interactive Corporation
+Zillow Group Inc,Liberty Interactive Corporation
+Zillow Group Inc,Netflix Inc
+Netflix Inc,The Trade Desk Inc
+Microsoft Corporation,Netflix Inc
+Netflix Inc,Electronic Arts Inc
+Zillow Group Inc,Electronic Arts Inc
+Netflix Inc,Logitech International SA
+CSI Compressco LP,Balchem Corporation
+Tetra Technologies Inc,Balchem Corporation
+Tetra Technologies Inc,CSI Compressco LP
+International Paper Company,Ingredion Incorporated
+Lockheed Martin Corporation,Ingredion Incorporated
+Ingredion,Ingredion Incorporated
+Lockheed Martin Corporation,International Paper Company
+Ingredion,International Paper Company
+Ingredion,Lockheed Martin Corporation
+Ingredion Incorporated,General Mills Inc
+H&R Block Inc,Ecolab Inc
+Ingredion Incorporated,Ecolab Inc
+Ingredion Incorporated,H&R Block Inc
+Ingredion Incorporated,Colfax Corporation
+Ingredion Incorporated,AK Steel Holding Corporation
+Ingredion Incorporated,Cabot Microelectronics Corporation
+Cardinal Health Inc,AK Steel Holding Corporation
+Ingredion Incorporated,Cardinal Health Inc
+Ingredion Incorporated,AquaVenture Holdings Limited
+Twitter Inc,Square Inc
+Walt Disney,Square Inc
+Walt Disney,Twitter Inc
+Walt Disney,BlackBerry Limited
+Wells Fargo & Company,BlackBerry Limited
+Wells Fargo & Company,Walt Disney
+Visa Inc,Clorox Company 
+Walt Disney,Clorox Company 
+Walt Disney,Visa Inc
+Potbelly Corporation,Marriott International
+Walt Disney,Marriott International
+Walt Disney,Potbelly Corporation
+Walt Disney,Apple Inc
+Walt Disney,Nike Inc
+Walt Disney,Coca-Cola Company 
