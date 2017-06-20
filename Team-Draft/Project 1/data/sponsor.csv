@@ -1,0 +1,3276 @@
+sponsorIndex,billId,billSponsorName
+0,s1-114,John Hoeven
+1,s100-114,David Vitter
+2,s1000-114,James E. Risch
+3,s1001-114,James E. Risch
+4,s1002-114,Benjamin L. Cardin
+5,s1003-114,Susan M. Collins
+6,s1004-114,Mark Steven Kirk
+7,s1005-114,Ron Wyden
+8,s1006-114,Dianne Feinstein
+9,s1007-114,Rob Portman
+10,s1008-114,James E. Risch
+11,s1009-114,Orrin G. Hatch
+12,s101-114,David Vitter
+13,s1010-114,Joe Manchin III
+14,s1011-114,Maria Cantwell
+15,s1012-114,Sherrod Brown
+16,s1013-114,Thad Cochran
+17,s1014-114,Dianne Feinstein
+18,s1015-114,Orrin G. Hatch
+19,s1016-114,Ron Johnson
+20,s1017-114,Martin Heinrich
+21,s1018-114,Charles E. Schumer
+22,s1019-114,Rand Paul
+23,s102-114,David Vitter
+24,s1020-114,David Vitter
+25,s1021-114,Richard Durbin
+26,s1022-114,Richard Durbin
+27,s1023-114,Jerry Moran
+28,s1024-114,Mark Steven Kirk
+29,s1025-114,Jon Tester
+30,s1026-114,John Barrasso
+31,s1027-114,Mark Steven Kirk
+32,s1028-114,Rob Portman
+33,s1029-114,John Hoeven
+34,s103-114,Dean Heller
+35,s1030-114,Ron Wyden
+36,s1031-114,Patty Murray
+37,s1032-114,Chuck Grassley
+38,s1033-114,Christopher A. Coons
+39,s1034-114,Roger F. Wicker
+40,s1035-114,Mitch McConnell
+41,s1036-114,Cory Gardner
+42,s1037-114,James E. Risch
+43,s1038-114,James E. Risch
+44,s1039-114,James E. Risch
+45,s104-114,David Vitter
+46,s1040-114,Dean Heller
+47,s1041-114,Bernard Sanders
+48,s1042-114,Robert Menendez
+49,s1043-114,Jeff Merkley
+50,s1044-114,Edward J. Markey
+51,s1045-114,Roger F. Wicker
+52,s1046-114,Maria Cantwell
+53,s1047-114,Lamar Alexander
+54,s1048-114,Lamar Alexander
+55,s1049-114,Heidi Heitkamp
+56,s105-114,David Vitter
+57,s1050-114,Brian Schatz
+58,s1051-114,Richard Durbin
+59,s1052-114,Al Franken
+60,s1053-114,Al Franken
+61,s1054-114,Jeanne Shaheen
+62,s1055-114,Al Franken
+63,s1056-114,Benjamin L. Cardin
+64,s1057-114,Ron Wyden
+65,s1058-114,Ron Wyden
+66,s1059-114,Mazie K. Hirono
+67,s106-114,David Vitter
+68,s1060-114,Mazie K. Hirono
+69,s1061-114,Mazie K. Hirono
+70,s1062-114,Mazie K. Hirono
+71,s1063-114,Al Franken
+72,s1064-114,Kirsten E. Gillibrand
+73,s1065-114,Kirsten E. Gillibrand
+74,s1066-114,Johnny Isakson
+75,s1067-114,Roy Blunt
+76,s1068-114,James E. Risch
+77,s1069-114,Richard Blumenthal
+78,s107-114,David Vitter
+79,s1070-114,Richard Durbin
+80,s1071-114,Pat Toomey
+81,s1072-114,Christopher S. Murphy
+82,s1073-114,Thomas R. Carper
+83,s1074-114,Tammy Baldwin
+84,s1075-114,Kirsten E. Gillibrand
+85,s1076-114,Amy Klobuchar
+86,s1077-114,Richard Burr
+87,s1078-114,Martin Heinrich
+88,s1079-114,Benjamin L. Cardin
+89,s108-114,Lamar Alexander
+90,s1080-114,Ted Cruz
+91,s1081-114,Cory A. Booker
+92,s1082-114,Marco Rubio
+93,s1083-114,Bill Nelson
+94,s1084-114,Jack Reed
+95,s1085-114,Patty Murray
+96,s1086-114,Dean Heller
+97,s1087-114,Sheldon Whitehouse
+98,s1088-114,Kirsten E. Gillibrand
+99,s1089-114,Orrin G. Hatch
+100,s109-114,Dean Heller
+101,s1090-114,Cory A. Booker
+102,s1091-114,Dianne Feinstein
+103,s1092-114,Dianne Feinstein
+104,s1093-114,Dianne Feinstein
+105,s1094-114,Dianne Feinstein
+106,s1095-114,Dianne Feinstein
+107,s1096-114,Dianne Feinstein
+108,s1097-114,Dianne Feinstein
+109,s1098-114,Dianne Feinstein
+110,s1099-114,Tim Scott
+111,s11-114,Roy Blunt
+112,s110-114,Dean Heller
+113,s1100-114,John Thune
+114,s1101-114,Michael F. Bennet
+115,s1102-114,Jack Reed
+116,s1103-114,Steve Daines
+117,s1104-114,Steve Daines
+118,s1105-114,Dean Heller
+119,s1106-114,Rob Portman
+120,s1107-114,Charles E. Schumer
+121,s1108-114,Harry Reid
+122,s1109-114,Elizabeth Warren
+123,s111-114,Dean Heller
+124,s1110-114,Michael B. Enzi
+125,s1111-114,Joe Donnelly
+126,s1112-114,Al Franken
+127,s1113-114,David Vitter
+128,s1114-114,Robert Menendez
+129,s1115-114,Deb Fischer
+130,s1116-114,John Thune
+131,s1117-114,Ron Johnson
+132,s1118-114,John McCain
+133,s1119-114,Gary C. Peters
+134,s112-114,Dean Heller
+135,s1120-114,Chuck Grassley
+136,s1121-114,Kelly Ayotte
+137,s1122-114,Richard Durbin
+138,s1123-114,Mike Lee
+139,s1124-114,Lamar Alexander
+140,s1125-114,Jon Tester
+141,s1126-114,Christopher A. Coons
+142,s1127-114,Jack Reed
+143,s1128-114,Debbie Stabenow
+144,s1129-114,Richard Blumenthal
+145,s113-114,Dean Heller
+146,s1130-114,Barbara Boxer
+147,s1131-114,Al Franken
+148,s1132-114,Jeff Merkley
+149,s1133-114,Al Franken
+150,s1134-114,Kelly Ayotte
+151,s1135-114,Claire McCaskill
+152,s1136-114,Jon Tester
+153,s1137-114,Chuck Grassley
+154,s1138-114,Rand Paul
+155,s1139-114,Amy Klobuchar
+156,s114-114,Dean Heller
+157,s1140-114,John Barrasso
+158,s1141-114,Susan M. Collins
+159,s1142-114,Mike Lee
+160,s1143-114,Maria Cantwell
+161,s1144-114,Sheldon Whitehouse
+162,s1145-114,Robert P. Jr. Casey
+163,s1146-114,John Hoeven
+164,s1147-114,Lindsey Graham
+165,s1148-114,Bill Nelson
+166,s1149-114,David Vitter
+167,s115-114,Dean Heller
+168,s1150-114,Patty Murray
+169,s1151-114,David Vitter
+170,s1152-114,Sheldon Whitehouse
+171,s1153-114,John Cornyn
+172,s1154-114,Lisa Murkowski
+173,s1155-114,Jon Tester
+174,s1156-114,Richard Durbin
+175,s1157-114,Richard Burr
+176,s1158-114,Patrick J. Leahy
+177,s1159-114,Charles E. Schumer
+178,s116-114,Dean Heller
+179,s1160-114,Tom Udall
+180,s1161-114,Lamar Alexander
+181,s1162-114,Pat Toomey
+182,s1163-114,Tom Udall
+183,s1164-114,Mark Steven Kirk
+184,s1165-114,Jeff Merkley
+185,s1166-114,Jeff Merkley
+186,s1167-114,Mike Crapo
+187,s1168-114,Mark Steven Kirk
+188,s1169-114,Chuck Grassley
+189,s117-114,Dean Heller
+190,s1170-114,Dianne Feinstein
+191,s1171-114,Bill Nelson
+192,s1172-114,Thomas R. Carper
+193,s1173-114,Charles E. Schumer
+194,s1174-114,Tom Udall
+195,s1175-114,Ron Wyden
+196,s1176-114,Tom Udall
+197,s1177-114,Lamar Alexander
+198,s1178-114,Jeff Flake
+199,s1179-114,Mitch McConnell
+200,s118-114,David Vitter
+201,s1180-114,Ron Johnson
+202,s1181-114,Bill Cassidy
+203,s1182-114,Roy Blunt
+204,s1183-114,Kirsten E. Gillibrand
+205,s1184-114,Kirsten E. Gillibrand
+206,s1185-114,Kirsten E. Gillibrand
+207,s1186-114,Ron Wyden
+208,s1187-114,Christopher A. Coons
+209,s1188-114,Joni Ernst
+210,s1189-114,Amy Klobuchar
+211,s119-114,Jeanne Shaheen
+212,s1190-114,Shelley Moore Capito
+213,s1191-114,Barbara Boxer
+214,s1192-114,Roy Blunt
+215,s1193-114,Maria Cantwell
+216,s1194-114,Orrin G. Hatch
+217,s1195-114,Ron Wyden
+218,s1196-114,Bill Cassidy
+219,s1197-114,Orrin G. Hatch
+220,s1198-114,Orrin G. Hatch
+221,s1199-114,Patty Murray
+222,s12-114,Roy Blunt
+223,s120-114,Bill Nelson
+224,s1200-114,Richard Blumenthal
+225,s1201-114,Jeanne Shaheen
+226,s1202-114,Jeanne Shaheen
+227,s1203-114,Dean Heller
+228,s1204-114,Richard Burr
+229,s1205-114,Jeff Merkley
+230,s1206-114,Bernard Sanders
+231,s1207-114,Mazie K. Hirono
+232,s1208-114,Edward J. Markey
+233,s1209-114,Edward J. Markey
+234,s121-114,John McCain
+235,s1210-114,Shelley Moore Capito
+236,s1211-114,Thad Cochran
+237,s1212-114,Benjamin L. Cardin
+238,s1213-114,Angus S. Jr. King
+239,s1214-114,Robert Menendez
+240,s1215-114,Lisa Murkowski
+241,s1216-114,Lisa Murkowski
+242,s1217-114,Lisa Murkowski
+243,s1218-114,Lisa Murkowski
+244,s1219-114,Lisa Murkowski
+245,s122-114,John McCain
+246,s1220-114,Lisa Murkowski
+247,s1221-114,Lisa Murkowski
+248,s1222-114,Lisa Murkowski
+249,s1223-114,Lisa Murkowski
+250,s1224-114,Lisa Murkowski
+251,s1225-114,Lisa Murkowski
+252,s1226-114,Lisa Murkowski
+253,s1227-114,Lisa Murkowski
+254,s1228-114,John Hoeven
+255,s1229-114,Lisa Murkowski
+256,s123-114,Marco Rubio
+257,s1230-114,Lisa Murkowski
+258,s1231-114,Lisa Murkowski
+259,s1232-114,Ron Wyden
+260,s1233-114,Ron Wyden
+261,s1234-114,Amy Klobuchar
+262,s1235-114,Lisa Murkowski
+263,s1236-114,Lisa Murkowski
+264,s1237-114,Angus S. Jr. King
+265,s1238-114,Mike Lee
+266,s1239-114,Joe Donnelly
+267,s124-114,Marco Rubio
+268,s1240-114,Martin Heinrich
+269,s1241-114,Maria Cantwell
+270,s1242-114,Angus S. Jr. King
+271,s1243-114,Maria Cantwell
+272,s1244-114,Tammy Baldwin
+273,s1245-114,Claire McCaskill
+274,s1246-114,Debbie Stabenow
+275,s1247-114,Claire McCaskill
+276,s1248-114,Elizabeth Warren
+277,s1249-114,Robert Menendez
+278,s125-114,Patrick J. Leahy
+279,s1250-114,Amy Klobuchar
+280,s1251-114,Edward J. Markey
+281,s1252-114,Robert P. Jr. Casey
+282,s1253-114,Richard Burr
+283,s1254-114,Chuck Grassley
+284,s1255-114,Jeff Merkley
+285,s1256-114,Al Franken
+286,s1257-114,Sherrod Brown
+287,s1258-114,Al Franken
+288,s1259-114,Martin Heinrich
+289,s126-114,Dean Heller
+290,s1260-114,Bill Nelson
+291,s1261-114,Joe Manchin III
+292,s1262-114,Mazie K. Hirono
+293,s1263-114,Mazie K. Hirono
+294,s1264-114,Tom Udall
+295,s1265-114,Mike Rounds
+296,s1266-114,Susan M. Collins
+297,s1267-114,Orrin G. Hatch
+298,s1268-114,Orrin G. Hatch
+299,s1269-114,Orrin G. Hatch
+300,s127-114,Jeanne Shaheen
+301,s1270-114,Cory Gardner
+302,s1271-114,Edward J. Markey
+303,s1272-114,Edward J. Markey
+304,s1273-114,Kelly Ayotte
+305,s1274-114,Mazie K. Hirono
+306,s1275-114,Jeff Merkley
+307,s1276-114,Bill Cassidy
+308,s1277-114,Mazie K. Hirono
+309,s1278-114,Lisa Murkowski
+310,s1279-114,Mark R. Warner
+311,s128-114,Rob Portman
+312,s1280-114,Edward J. Markey
+313,s1281-114,Tom Udall
+314,s1282-114,Joe Manchin III
+315,s1283-114,Joe Manchin III
+316,s1284-114,Angus S. Jr. King
+317,s1285-114,Heidi Heitkamp
+318,s1286-114,Jeanne Shaheen
+319,s1287-114,Mark Steven Kirk
+320,s1288-114,David Vitter
+321,s1289-114,Mike Rounds
+322,s129-114,Ron Johnson
+323,s1290-114,Mike Rounds
+324,s1291-114,Deb Fischer
+325,s1292-114,David Vitter
+326,s1293-114,Heidi Heitkamp
+327,s1294-114,Ron Wyden
+328,s1295-114,Michael F. Bennet
+329,s1296-114,Deb Fischer
+330,s1297-114,Ted Cruz
+331,s1298-114,John Thune
+332,s1299-114,Jack Reed
+333,s13-114,Orrin G. Hatch
+334,s130-114,David Vitter
+335,s1300-114,Dianne Feinstein
+336,s1301-114,Mazie K. Hirono
+337,s1302-114,Jon Tester
+338,s1303-114,Sherrod Brown
+339,s1304-114,Maria Cantwell
+340,s1305-114,John Barrasso
+341,s1306-114,Joe Manchin III
+342,s1307-114,Ron Wyden
+343,s1308-114,David Vitter
+344,s1309-114,Gary C. Peters
+345,s131-114,David Vitter
+346,s1310-114,Edward J. Markey
+347,s1311-114,Edward J. Markey
+348,s1312-114,Lisa Murkowski
+349,s1313-114,Sherrod Brown
+350,s1314-114,Cory A. Booker
+351,s1315-114,Michael B. Enzi
+352,s1316-114,Lisa Murkowski
+353,s1317-114,Johnny Isakson
+354,s1318-114,Chuck Grassley
+355,s1319-114,Dean Heller
+356,s132-114,Ron Wyden
+357,s1320-114,Elizabeth Warren
+358,s1321-114,Christopher A. Coons
+359,s1322-114,Edward J. Markey
+360,s1323-114,Ron Johnson
+361,s1324-114,Shelley Moore Capito
+362,s1325-114,Rob Portman
+363,s1326-114,Deb Fischer
+364,s1327-114,Amy Klobuchar
+365,s1328-114,Jeanne Shaheen
+366,s1329-114,Tim Kaine
+367,s133-114,Ron Wyden
+368,s1330-114,Patty Murray
+369,s1331-114,John Thune
+370,s1332-114,Kirsten E. Gillibrand
+371,s1333-114,Cory Gardner
+372,s1334-114,Lisa Murkowski
+373,s1335-114,Dan Sullivan
+374,s1336-114,Brian Schatz
+375,s1337-114,Ron Wyden
+376,s1338-114,Angus S. Jr. King
+377,s1339-114,Orrin G. Hatch
+378,s134-114,Ron Wyden
+379,s1340-114,Edward J. Markey
+380,s1341-114,David Vitter
+381,s1342-114,Elizabeth Warren
+382,s1343-114,Marco Rubio
+383,s1344-114,Rob Portman
+384,s1345-114,Jeanne Shaheen
+385,s1346-114,Lisa Murkowski
+386,s1347-114,Johnny Isakson
+387,s1348-114,Thom Tillis
+388,s1349-114,Benjamin L. Cardin
+389,s135-114,Ron Wyden
+390,s1350-114,Thomas R. Carper
+391,s1351-114,David Vitter
+392,s1352-114,Robert P. Jr. Casey
+393,s1353-114,Roger F. Wicker
+394,s1354-114,Michael B. Enzi
+395,s1355-114,Christopher S. Murphy
+396,s1356-114,Ron Johnson
+397,s1357-114,Mitch McConnell
+398,s1358-114,Lisa Murkowski
+399,s1359-114,Deb Fischer
+400,s136-114,Ron Wyden
+401,s1360-114,Bill Nelson
+402,s1361-114,Steve Daines
+403,s1362-114,Thomas R. Carper
+404,s1363-114,Mike Crapo
+405,s1364-114,Bernard Sanders
+406,s1365-114,Jon Tester
+407,s1366-114,Bernard Sanders
+408,s1367-114,Joe Donnelly
+409,s1368-114,Pat Roberts
+410,s1369-114,Dianne Feinstein
+411,s137-114,Ron Wyden
+412,s1370-114,Roy Blunt
+413,s1371-114,Bernard Sanders
+414,s1372-114,Heidi Heitkamp
+415,s1373-114,Bernard Sanders
+416,s1374-114,Richard Durbin
+417,s1375-114,Richard Durbin
+418,s1376-114,John McCain
+419,s1377-114,Patrick J. Leahy
+420,s1378-114,Rand Paul
+421,s1379-114,James M. Inhofe
+422,s138-114,Ron Wyden
+423,s1380-114,Patty Murray
+424,s1381-114,Elizabeth Warren
+425,s1382-114,Kirsten E. Gillibrand
+426,s1383-114,David Perdue
+427,s1384-114,Charles E. Schumer
+428,s1385-114,Roy Blunt
+429,s1386-114,Maria Cantwell
+430,s1387-114,Sherrod Brown
+431,s1388-114,David Vitter
+432,s1389-114,Tom Udall
+433,s139-114,Ron Wyden
+434,s1390-114,Cory Gardner
+435,s1391-114,Tom Udall
+436,s1392-114,Edward J. Markey
+437,s1393-114,John Thune
+438,s1394-114,Jeff Merkley
+439,s1395-114,Lisa Murkowski
+440,s1396-114,John Thune
+441,s1397-114,John Cornyn
+442,s1398-114,Lamar Alexander
+443,s1399-114,Michael F. Bennet
+444,s14-114,Orrin G. Hatch
+445,s140-114,Dianne Feinstein
+446,s1400-114,Richard Durbin
+447,s1401-114,Thom Tillis
+448,s1402-114,Patrick J. Leahy
+449,s1403-114,Marco Rubio
+450,s1404-114,Rob Portman
+451,s1405-114,Al Franken
+452,s1406-114,David Vitter
+453,s1407-114,Dean Heller
+454,s1408-114,Gary C. Peters
+455,s1409-114,Edward J. Markey
+456,s141-114,John Cornyn
+457,s1410-114,Edward J. Markey
+458,s1411-114,Joni Ernst
+459,s1412-114,Al Franken
+460,s1413-114,Daniel Coats
+461,s1414-114,Jack Reed
+462,s1415-114,Heidi Heitkamp
+463,s1416-114,Jeff Flake
+464,s1417-114,Pat Roberts
+465,s1418-114,Chuck Grassley
+466,s1419-114,Jon Tester
+467,s142-114,Bill Nelson
+468,s1420-114,Maria Cantwell
+469,s1421-114,Orrin G. Hatch
+470,s1422-114,Martin Heinrich
+471,s1423-114,Barbara Boxer
+472,s1424-114,Kirsten E. Gillibrand
+473,s1425-114,Shelley Moore Capito
+474,s1426-114,Jon Tester
+475,s1427-114,Debbie Stabenow
+476,s1428-114,John Barrasso
+477,s1429-114,John Thune
+478,s143-114,Roger F. Wicker
+479,s1430-114,Bill Nelson
+480,s1431-114,Joe Manchin III
+481,s1432-114,Maria Cantwell
+482,s1433-114,Amy Klobuchar
+483,s1434-114,Martin Heinrich
+484,s1435-114,Robert P. Jr. Casey
+485,s1436-114,Harry Reid
+486,s1437-114,John Barrasso
+487,s1438-114,Kelly Ayotte
+488,s1439-114,Chuck Grassley
+489,s144-114,Mike Crapo
+490,s1440-114,Ron Wyden
+491,s1441-114,Rand Paul
+492,s1442-114,Jeff Flake
+493,s1443-114,Lisa Murkowski
+494,s1444-114,Gary C. Peters
+495,s1445-114,Deb Fischer
+496,s1446-114,Heidi Heitkamp
+497,s1447-114,Christopher A. Coons
+498,s1448-114,Ron Wyden
+499,s1449-114,Debbie Stabenow
+500,s145-114,Jeff Flake
+501,s1450-114,Mazie K. Hirono
+502,s1451-114,Mazie K. Hirono
+503,s1452-114,Mazie K. Hirono
+504,s1453-114,Charles E. Schumer
+505,s1454-114,Deb Fischer
+506,s1455-114,Edward J. Markey
+507,s1456-114,Maria Cantwell
+508,s1457-114,Jon Tester
+509,s1458-114,Daniel Coats
+510,s1459-114,Charles E. Schumer
+511,s146-114,Jeff Flake
+512,s1460-114,Sherrod Brown
+513,s1461-114,John Thune
+514,s1462-114,Charles E. Schumer
+515,s1463-114,Jerry Moran
+516,s1464-114,Charles E. Schumer
+517,s1465-114,Mark Steven Kirk
+518,s1466-114,Mark Steven Kirk
+519,s1467-114,Kirsten E. Gillibrand
+520,s1468-114,Mark R. Warner
+521,s1469-114,Dianne Feinstein
+522,s147-114,Lisa Murkowski
+523,s1470-114,David Vitter
+524,s1471-114,Rand Paul
+525,s1472-114,Christopher S. Murphy
+526,s1473-114,Edward J. Markey
+527,s1474-114,Edward J. Markey
+528,s1475-114,John Barrasso
+529,s1476-114,Barbara Boxer
+530,s1477-114,Mike Rounds
+531,s1478-114,Mike Rounds
+532,s1479-114,James M. Inhofe
+533,s148-114,Rob Portman
+534,s1480-114,Michael F. Bennet
+535,s1481-114,Richard Durbin
+536,s1482-114,Chuck Grassley
+537,s1483-114,Lamar Alexander
+538,s1484-114,Richard C. Shelby
+539,s1485-114,Tammy Baldwin
+540,s1486-114,Richard Durbin
+541,s1487-114,Steve Daines
+542,s1488-114,Bill Nelson
+543,s1489-114,Marco Rubio
+544,s149-114,Orrin G. Hatch
+545,s1490-114,Amy Klobuchar
+546,s1491-114,Sherrod Brown
+547,s1492-114,Dan Sullivan
+548,s1493-114,Johnny Isakson
+549,s1494-114,Patty Murray
+550,s1495-114,Pat Toomey
+551,s1496-114,Bill Cassidy
+552,s1497-114,Jon Tester
+553,s1498-114,Ron Wyden
+554,s1499-114,Gary C. Peters
+555,s15-114,Orrin G. Hatch
+556,s150-114,Johnny Isakson
+557,s1500-114,Mike Crapo
+558,s1501-114,Patrick J. Leahy
+559,s1502-114,Ron Johnson
+560,s1503-114,Richard Blumenthal
+561,s1504-114,Christopher S. Murphy
+562,s1505-114,Brian Schatz
+563,s1506-114,Bernard Sanders
+564,s1507-114,Barbara A. Mikulski
+565,s1508-114,Jeanne Shaheen
+566,s1509-114,Thomas R. Carper
+567,s151-114,Dean Heller
+568,s1510-114,Patty Murray
+569,s1511-114,David Vitter
+570,s1512-114,Robert P. Jr. Casey
+571,s1513-114,Rob Portman
+572,s1514-114,Rob Portman
+573,s1515-114,Edward J. Markey
+574,s1516-114,Susan M. Collins
+575,s1517-114,Richard Blumenthal
+576,s1518-114,Mike Lee
+577,s1519-114,Cory Gardner
+578,s152-114,John McCain
+579,s1520-114,Amy Klobuchar
+580,s1521-114,Tim Scott
+581,s1522-114,Ron Johnson
+582,s1523-114,Sheldon Whitehouse
+583,s1524-114,Roy Blunt
+584,s1525-114,Orrin G. Hatch
+585,s1526-114,Rob Portman
+586,s1527-114,David Perdue
+587,s1528-114,Mazie K. Hirono
+588,s1529-114,Richard Durbin
+589,s153-114,Orrin G. Hatch
+590,s1530-114,Barbara A. Mikulski
+591,s1531-114,Bill Cassidy
+592,s1532-114,Patty Murray
+593,s1533-114,John Barrasso
+594,s1534-114,John Cornyn
+595,s1535-114,Dean Heller
+596,s1536-114,David Vitter
+597,s1537-114,Tom Udall
+598,s1538-114,Richard Durbin
+599,s1539-114,Patty Murray
+600,s154-114,Martin Heinrich
+601,s1540-114,Claire McCaskill
+602,s1541-114,Mike Lee
+603,s1542-114,Christopher A. Coons
+604,s1543-114,Jerry Moran
+605,s1544-114,Jeff Flake
+606,s1545-114,David Vitter
+607,s1546-114,David Vitter
+608,s1547-114,Johnny Isakson
+609,s1548-114,Sheldon Whitehouse
+610,s1549-114,Mark R. Warner
+611,s155-114,Jerry Moran
+612,s1550-114,Joni Ernst
+613,s1551-114,John Thune
+614,s1552-114,Steve Daines
+615,s1553-114,Lindsey Graham
+616,s1554-114,Benjamin L. Cardin
+617,s1555-114,Mazie K. Hirono
+618,s1556-114,Richard Durbin
+619,s1557-114,Richard Durbin
+620,s1558-114,Thad Cochran
+621,s1559-114,Kelly Ayotte
+622,s156-114,Bill Cassidy
+623,s1560-114,Pat Roberts
+624,s1561-114,Patrick J. Leahy
+625,s1562-114,Ron Wyden
+626,s1563-114,Edward J. Markey
+627,s1564-114,Bernard Sanders
+628,s1565-114,Jack Reed
+629,s1566-114,Mark Steven Kirk
+630,s1567-114,Gary C. Peters
+631,s1568-114,Cory Gardner
+632,s1569-114,David Vitter
+633,s157-114,Bill Cassidy
+634,s1570-114,Brian Schatz
+635,s1571-114,Rand Paul
+636,s1572-114,Rand Paul
+637,s1573-114,John Thune
+638,s1574-114,Jeff Merkley
+639,s1575-114,Rand Paul
+640,s1576-114,James Lankford
+641,s1577-114,Jon Tester
+642,s1578-114,Chuck Grassley
+643,s1579-114,Brian Schatz
+644,s158-114,Bill Cassidy
+645,s1580-114,Jon Tester
+646,s1581-114,Robert P. Jr. Casey
+647,s1582-114,Robert Menendez
+648,s1583-114,Lisa Murkowski
+649,s1584-114,Bill Cassidy
+650,s1585-114,Lisa Murkowski
+651,s1586-114,Mark Steven Kirk
+652,s1587-114,Tim Kaine
+653,s1588-114,Al Franken
+654,s1589-114,Mark R. Warner
+655,s159-114,John McCain
+656,s1590-114,Lisa Murkowski
+657,s1591-114,Jon Tester
+658,s1592-114,Jeff Flake
+659,s1593-114,Ted Cruz
+660,s1594-114,Rand Paul
+661,s1595-114,Ron Wyden
+662,s1596-114,Rob Portman
+663,s1597-114,Roger F. Wicker
+664,s1598-114,Mike Lee
+665,s1599-114,Chuck Grassley
+666,s16-114,David Vitter
+667,s160-114,Dean Heller
+668,s1600-114,Christopher S. Murphy
+669,s1601-114,Sheldon Whitehouse
+670,s1602-114,Robert Menendez
+671,s1603-114,Jeff Flake
+672,s1604-114,Chuck Grassley
+673,s1605-114,Benjamin L. Cardin
+674,s1606-114,Angus S. Jr. King
+675,s1607-114,Rob Portman
+676,s1608-114,Dianne Feinstein
+677,s1609-114,Tim Kaine
+678,s161-114,Sheldon Whitehouse
+679,s1610-114,Benjamin L. Cardin
+680,s1611-114,John Thune
+681,s1612-114,Barbara Boxer
+682,s1613-114,Jeanne Shaheen
+683,s1614-114,Amy Klobuchar
+684,s1615-114,Debbie Stabenow
+685,s1616-114,Thomas R. Carper
+686,s1617-114,Marco Rubio
+687,s1618-114,Marco Rubio
+688,s1619-114,John Hoeven
+689,s162-114,Sheldon Whitehouse
+690,s1620-114,Ron Johnson
+691,s1621-114,David Vitter
+692,s1622-114,Richard Burr
+693,s1623-114,Maria Cantwell
+694,s1624-114,Debbie Stabenow
+695,s1625-114,Steve Daines
+696,s1626-114,Roger F. Wicker
+697,s1627-114,Ted Cruz
+698,s1628-114,Steve Daines
+699,s1629-114,Ron Johnson
+700,s163-114,Charles E. Schumer
+701,s1630-114,James E. Risch
+702,s1631-114,Bernard Sanders
+703,s1632-114,Susan M. Collins
+704,s1633-114,Steve Daines
+705,s1634-114,Amy Klobuchar
+706,s1635-114,Bob Corker
+707,s1636-114,Mark Steven Kirk
+708,s1637-114,James M. Inhofe
+709,s1638-114,Ron Johnson
+710,s1639-114,Al Franken
+711,s164-114,Brian Schatz
+712,s1640-114,Jeff Sessions
+713,s1641-114,Tammy Baldwin
+714,s1642-114,John Boozman
+715,s1643-114,Roy Blunt
+716,s1644-114,Mike Crapo
+717,s1645-114,Lisa Murkowski
+718,s1646-114,James M. Inhofe
+719,s1647-114,James M. Inhofe
+720,s1648-114,Chuck Grassley
+721,s1649-114,John McCain
+722,s165-114,Kelly Ayotte
+723,s1650-114,Robert Menendez
+724,s1651-114,Sherrod Brown
+725,s1652-114,Benjamin L. Cardin
+726,s1653-114,Bill Cassidy
+727,s1654-114,Jack Reed
+728,s1655-114,David Perdue
+729,s1656-114,Christopher A. Coons
+730,s1657-114,John Barrasso
+731,s1658-114,Claire McCaskill
+732,s1659-114,Patrick J. Leahy
+733,s166-114,Amy Klobuchar
+734,s1660-114,Pat Roberts
+735,s1661-114,Johnny Isakson
+736,s1662-114,Mark Steven Kirk
+737,s1663-114,Richard Blumenthal
+738,s1664-114,Thomas R. Carper
+739,s1665-114,Kirsten E. Gillibrand
+740,s1666-114,Debbie Stabenow
+741,s1667-114,Maria Cantwell
+742,s1668-114,Lindsey Graham
+743,s1669-114,Deb Fischer
+744,s167-114,John McCain
+745,s1670-114,Amy Klobuchar
+746,s1671-114,Michael F. Bennet
+747,s1672-114,Deb Fischer
+748,s1673-114,Richard Blumenthal
+749,s1674-114,Kirsten E. Gillibrand
+750,s1675-114,Richard Blumenthal
+751,s1676-114,Jon Tester
+752,s1677-114,Bernard Sanders
+753,s1678-114,John Boozman
+754,s1679-114,Dean Heller
+755,s168-114,Pat Roberts
+756,s1680-114,Maria Cantwell
+757,s1681-114,Charles E. Schumer
+758,s1682-114,Mark Steven Kirk
+759,s1683-114,Orrin G. Hatch
+760,s1684-114,Mark Steven Kirk
+761,s1685-114,Roger F. Wicker
+762,s1686-114,Tammy Baldwin
+763,s1687-114,Ron Wyden
+764,s1688-114,Thomas R. Carper
+765,s1689-114,Sherrod Brown
+766,s169-114,Patrick J. Leahy
+767,s1690-114,Maria Cantwell
+768,s1691-114,John Barrasso
+769,s1692-114,Jerry Moran
+770,s1693-114,Mazie K. Hirono
+771,s1694-114,Maria Cantwell
+772,s1695-114,Roy Blunt
+773,s1696-114,Johnny Isakson
+774,s1697-114,Chuck Grassley
+775,s1698-114,Thom Tillis
+776,s1699-114,Ron Wyden
+777,s17-114,David Vitter
+778,s170-114,Jon Tester
+779,s1700-114,Lisa Murkowski
+780,s1701-114,Lisa Murkowski
+781,s1702-114,Angus S. Jr. King
+782,s1703-114,Tom Udall
+783,s1704-114,John Barrasso
+784,s1705-114,Richard Burr
+785,s1706-114,James E. Risch
+786,s1707-114,John Boozman
+787,s1708-114,Sherrod Brown
+788,s1709-114,Elizabeth Warren
+789,s171-114,Jon Tester
+790,s1710-114,Sherrod Brown
+791,s1711-114,Tim Scott
+792,s1712-114,Michael F. Bennet
+793,s1713-114,Bernard Sanders
+794,s1714-114,Joe Manchin III
+795,s1715-114,John Hoeven
+796,s1716-114,Tammy Baldwin
+797,s1717-114,Sherrod Brown
+798,s1718-114,Pat Roberts
+799,s1719-114,Susan M. Collins
+800,s172-114,Jon Tester
+801,s1720-114,Jeanne Shaheen
+802,s1721-114,Richard Blumenthal
+803,s1722-114,Mike Rounds
+804,s1723-114,Martin Heinrich
+805,s1724-114,Dean Heller
+806,s1725-114,Lindsey Graham
+807,s1726-114,Jeff Merkley
+808,s1727-114,Ron Wyden
+809,s1728-114,Daniel Coats
+810,s1729-114,Al Franken
+811,s173-114,Bill Cassidy
+812,s1730-114,Jack Reed
+813,s1731-114,Patty Murray
+814,s1732-114,John Thune
+815,s1733-114,Jeanne Shaheen
+816,s1734-114,Mark Steven Kirk
+817,s1735-114,Bill Nelson
+818,s1736-114,Thomas R. Carper
+819,s1737-114,Debbie Stabenow
+820,s1738-114,Richard Blumenthal
+821,s1739-114,Cory A. Booker
+822,s174-114,Sheldon Whitehouse
+823,s1740-114,Ron Wyden
+824,s1741-114,Lindsey Graham
+825,s1742-114,Heidi Heitkamp
+826,s1743-114,Bill Nelson
+827,s1744-114,David Perdue
+828,s1745-114,Jon Tester
+829,s1746-114,Benjamin L. Cardin
+830,s1747-114,Robert Menendez
+831,s1748-114,Patty Murray
+832,s1749-114,Martin Heinrich
+833,s175-114,Barbara Boxer
+834,s1750-114,Mark R. Warner
+835,s1751-114,Christopher S. Murphy
+836,s1752-114,John McCain
+837,s1753-114,Sherrod Brown
+838,s1754-114,Jeanne Shaheen
+839,s1755-114,Brian Schatz
+840,s1756-114,Jeanne Shaheen
+841,s1757-114,Rob Portman
+842,s1758-114,Daniel Coats
+843,s1759-114,Bill Nelson
+844,s176-114,Barbara Boxer
+845,s1760-114,Kirsten E. Gillibrand
+846,s1761-114,Barbara Boxer
+847,s1762-114,Ted Cruz
+848,s1763-114,Richard Durbin
+849,s1764-114,Rand Paul
+850,s1765-114,Michael F. Bennet
+851,s1766-114,Brian Schatz
+852,s1767-114,Johnny Isakson
+853,s1768-114,Pat Roberts
+854,s1769-114,Steve Daines
+855,s177-114,Bill Nelson
+856,s1770-114,Robert P. Jr. Casey
+857,s1771-114,Steve Daines
+858,s1772-114,Elizabeth Warren
+859,s1773-114,Sherrod Brown
+860,s1774-114,Richard Blumenthal
+861,s1775-114,Christopher S. Murphy
+862,s1776-114,John Barrasso
+863,s1777-114,James E. Risch
+864,s1778-114,Mazie K. Hirono
+865,s1779-114,Tammy Baldwin
+866,s178-114,John Cornyn
+867,s1780-114,Martin Heinrich
+868,s1781-114,Orrin G. Hatch
+869,s1782-114,Orrin G. Hatch
+870,s1783-114,Orrin G. Hatch
+871,s1784-114,Mitch McConnell
+872,s1785-114,Mike Lee
+873,s1786-114,John Cornyn
+874,s1787-114,Sherrod Brown
+875,s1788-114,Steve Daines
+876,s1789-114,Marco Rubio
+877,s179-114,Amy Klobuchar
+878,s1790-114,David Vitter
+879,s1791-114,David Vitter
+880,s1792-114,Charles E. Schumer
+881,s1793-114,Patty Murray
+882,s1794-114,Jeff Merkley
+883,s1795-114,David Vitter
+884,s1796-114,Robert P. Jr. Casey
+885,s1797-114,Heidi Heitkamp
+886,s1798-114,Marco Rubio
+887,s1799-114,Susan M. Collins
+888,s18-114,David Vitter
+889,s180-114,Kirsten E. Gillibrand
+890,s1800-114,Jerry Moran
+891,s1801-114,Amy Klobuchar
+892,s1802-114,Pat Toomey
+893,s1803-114,John Hoeven
+894,s1804-114,Ted Cruz
+895,s1805-114,James M. Inhofe
+896,s1806-114,Edward J. Markey
+897,s1807-114,Steve Daines
+898,s1808-114,Heidi Heitkamp
+899,s1809-114,Kelly Ayotte
+900,s181-114,Jerry Moran
+901,s1810-114,David Vitter
+902,s1811-114,Robert Menendez
+903,s1812-114,Chuck Grassley
+904,s1813-114,Jerry Moran
+905,s1814-114,David Vitter
+906,s1815-114,Dean Heller
+907,s1816-114,Mike Rounds
+908,s1817-114,Heidi Heitkamp
+909,s1818-114,James Lankford
+910,s1819-114,Steve Daines
+911,s182-114,Pat Roberts
+912,s1820-114,James Lankford
+913,s1821-114,Ron Johnson
+914,s1822-114,Barbara Boxer
+915,s1823-114,Jerry Moran
+916,s1824-114,Kirsten E. Gillibrand
+917,s1825-114,Harry Reid
+918,s1826-114,Ron Johnson
+919,s1827-114,David Vitter
+920,s1828-114,Susan M. Collins
+921,s1829-114,Rob Portman
+922,s183-114,John Barrasso
+923,s1830-114,John Barrasso
+924,s1831-114,Pat Toomey
+925,s1832-114,Bernard Sanders
+926,s1833-114,Robert P. Jr. Casey
+927,s1834-114,Richard Blumenthal
+928,s1835-114,Tammy Baldwin
+929,s1836-114,James Lankford
+930,s1837-114,Barbara Boxer
+931,s1838-114,Patrick J. Leahy
+932,s1839-114,Rand Paul
+933,s184-114,John Hoeven
+934,s1840-114,John Cornyn
+935,s1841-114,John Cornyn
+936,s1842-114,Jeff Sessions
+937,s1843-114,Jeff Flake
+938,s1844-114,John Hoeven
+939,s1845-114,Orrin G. Hatch
+940,s1846-114,Ron Johnson
+941,s1847-114,Brian Schatz
+942,s1848-114,Mike Lee
+943,s1849-114,Lisa Murkowski
+944,s185-114,Orrin G. Hatch
+945,s1850-114,Robert P. Jr. Casey
+946,s1851-114,Charles E. Schumer
+947,s1852-114,Robert P. Jr. Casey
+948,s1853-114,Ted Cruz
+949,s1854-114,Cory A. Booker
+950,s1855-114,Mazie K. Hirono
+951,s1856-114,Richard Blumenthal
+952,s1857-114,Deb Fischer
+953,s1858-114,Jeff Merkley
+954,s1859-114,Tom Udall
+955,s186-114,Deb Fischer
+956,s1860-114,Richard Durbin
+957,s1861-114,Rand Paul
+958,s1862-114,Jerry Moran
+959,s1863-114,Mark Steven Kirk
+960,s1864-114,Ron Johnson
+961,s1865-114,Amy Klobuchar
+962,s1866-114,David Vitter
+963,s1867-114,Richard C. Shelby
+964,s1868-114,Thomas R. Carper
+965,s1869-114,Thomas R. Carper
+966,s187-114,Edward J. Markey
+967,s1870-114,Jerry Moran
+968,s1871-114,Mark Steven Kirk
+969,s1872-114,Cory A. Booker
+970,s1873-114,John McCain
+971,s1874-114,Orrin G. Hatch
+972,s1875-114,Robert Menendez
+973,s1876-114,Richard Blumenthal
+974,s1877-114,James M. Inhofe
+975,s1878-114,Robert P. Jr. Casey
+976,s1879-114,John Barrasso
+977,s188-114,Edward J. Markey
+978,s1880-114,Pat Roberts
+979,s1881-114,Joni Ernst
+980,s1882-114,Benjamin L. Cardin
+981,s1883-114,Jack Reed
+982,s1884-114,Richard Durbin
+983,s1885-114,Richard Blumenthal
+984,s1886-114,Roger F. Wicker
+985,s1887-114,Robert P. Jr. Casey
+986,s1888-114,John McCain
+987,s1889-114,Barbara A. Mikulski
+988,s189-114,Deb Fischer
+989,s1890-114,Orrin G. Hatch
+990,s1891-114,Ron Wyden
+991,s1892-114,Orrin G. Hatch
+992,s1893-114,Lamar Alexander
+993,s1894-114,Dianne Feinstein
+994,s1895-114,John McCain
+995,s1896-114,Robert P. Jr. Casey
+996,s1897-114,Tim Scott
+997,s1898-114,Bill Cassidy
+998,s1899-114,Angus S. Jr. King
+999,s19-114,David Vitter
+1000,s190-114,David Vitter
+1001,s1900-114,Tim Kaine
+1002,s1901-114,Debbie Stabenow
+1003,s1902-114,Jack Reed
+1004,s1903-114,Cory A. Booker
+1005,s1904-114,Richard Blumenthal
+1006,s1905-114,Pat Roberts
+1007,s1906-114,Robert Menendez
+1008,s1907-114,Robert Menendez
+1009,s1908-114,Sherrod Brown
+1010,s1909-114,Mike Lee
+1011,s191-114,Tim Kaine
+1012,s1910-114,John Boozman
+1013,s1911-114,Susan M. Collins
+1014,s1912-114,Jon Tester
+1015,s1913-114,Pat Toomey
+1016,s1914-114,Tim Kaine
+1017,s1915-114,Kelly Ayotte
+1018,s1916-114,John Thune
+1019,s1917-114,Susan M. Collins
+1020,s1918-114,Robert Menendez
+1021,s1919-114,James Lankford
+1022,s192-114,Lamar Alexander
+1023,s1920-114,Joe Donnelly
+1024,s1921-114,Christopher S. Murphy
+1025,s1922-114,Orrin G. Hatch
+1026,s1923-114,Orrin G. Hatch
+1027,s1924-114,John Thune
+1028,s1925-114,Martin Heinrich
+1029,s1926-114,Barbara A. Mikulski
+1030,s1927-114,Daniel Coats
+1031,s1928-114,Jon Tester
+1032,s1929-114,Orrin G. Hatch
+1033,s193-114,John Barrasso
+1034,s1930-114,Johnny Isakson
+1035,s1931-114,Jerry Moran
+1036,s1932-114,Michael F. Bennet
+1037,s1933-114,Bob Corker
+1038,s1934-114,Cory A. Booker
+1039,s1935-114,Tammy Baldwin
+1040,s1936-114,Tom Udall
+1041,s1937-114,Tom Udall
+1042,s1938-114,Richard Blumenthal
+1043,s1939-114,Jeanne Shaheen
+1044,s194-114,Chuck Grassley
+1045,s1940-114,Brian Schatz
+1046,s1941-114,Cory Gardner
+1047,s1942-114,Cory Gardner
+1048,s1943-114,Lamar Alexander
+1049,s1944-114,Dan Sullivan
+1050,s1945-114,Bill Cassidy
+1051,s1946-114,Orrin G. Hatch
+1052,s1947-114,Jeff Merkley
+1053,s1948-114,Jeff Merkley
+1054,s1949-114,Charles E. Schumer
+1055,s195-114,Mark Steven Kirk
+1056,s1950-114,Charles E. Schumer
+1057,s1951-114,Charles E. Schumer
+1058,s1952-114,Charles E. Schumer
+1059,s1953-114,Robert P. Jr. Casey
+1060,s1954-114,Ron Wyden
+1061,s1955-114,Dan Sullivan
+1062,s1956-114,Debbie Stabenow
+1063,s1957-114,Dianne Feinstein
+1064,s1958-114,Robert Menendez
+1065,s1959-114,Michael F. Bennet
+1066,s196-114,Harry Reid
+1067,s1960-114,Jack Reed
+1068,s1961-114,Charles E. Schumer
+1069,s1962-114,Michael F. Bennet
+1070,s1963-114,Mike Rounds
+1071,s1964-114,Ron Wyden
+1072,s1965-114,Cory A. Booker
+1073,s1966-114,John Boozman
+1074,s1967-114,Mark Steven Kirk
+1075,s1968-114,Richard Blumenthal
+1076,s1969-114,Bernard Sanders
+1077,s197-114,Tammy Baldwin
+1078,s1970-114,Bernard Sanders
+1079,s1971-114,Barbara Boxer
+1080,s1972-114,Mark Steven Kirk
+1081,s1973-114,Rand Paul
+1082,s1974-114,Heidi Heitkamp
+1083,s1975-114,Barbara A. Mikulski
+1084,s1976-114,Charles E. Schumer
+1085,s1977-114,Barbara Boxer
+1086,s1978-114,Mark Steven Kirk
+1087,s1979-114,Patty Murray
+1088,s198-114,Richard Durbin
+1089,s1980-114,Robert Menendez
+1090,s1981-114,Elizabeth Warren
+1091,s1982-114,Benjamin L. Cardin
+1092,s1983-114,Barbara Boxer
+1093,s1984-114,James Lankford
+1094,s1985-114,Orrin G. Hatch
+1095,s1986-114,Harry Reid
+1096,s1987-114,James M. Inhofe
+1097,s1988-114,James M. Inhofe
+1098,s1989-114,Bill Cassidy
+1099,s199-114,Harry Reid
+1100,s1990-114,Orrin G. Hatch
+1101,s1991-114,John McCain
+1102,s1992-114,Mike Rounds
+1103,s1993-114,John McCain
+1104,s1994-114,Thomas R. Carper
+1105,s1995-114,Charles E. Schumer
+1106,s1996-114,Mark R. Warner
+1107,s1997-114,Michael F. Bennet
+1108,s1998-114,Martin Heinrich
+1109,s1999-114,Bill Nelson
+1110,s20-114,David Vitter
+1111,s200-114,Rob Portman
+1112,s2000-114,John Hoeven
+1113,s2001-114,Kelly Ayotte
+1114,s2002-114,John Cornyn
+1115,s2003-114,Angus S. Jr. King
+1116,s2004-114,Mike Lee
+1117,s2005-114,David Vitter
+1118,s2006-114,Rob Portman
+1119,s2007-114,Michael F. Bennet
+1120,s2008-114,Jeff Merkley
+1121,s2009-114,Ron Wyden
+1122,s201-114,Rob Portman
+1123,s2010-114,John Barrasso
+1124,s2011-114,Lisa Murkowski
+1125,s2012-114,Lisa Murkowski
+1126,s2013-114,Dianne Feinstein
+1127,s2014-114,Tammy Baldwin
+1128,s2015-114,Lamar Alexander
+1129,s2016-114,Tim Kaine
+1130,s2017-114,Lisa Murkowski
+1131,s2018-114,Lisa Murkowski
+1132,s2019-114,Amy Klobuchar
+1133,s202-114,John Cornyn
+1134,s2020-114,Maria Cantwell
+1135,s2021-114,Cory A. Booker
+1136,s2022-114,Lindsey Graham
+1137,s2023-114,Bernard Sanders
+1138,s2024-114,Johnny Isakson
+1139,s2025-114,Sheldon Whitehouse
+1140,s2026-114,Debbie Stabenow
+1141,s2027-114,Kelly Ayotte
+1142,s2028-114,Rand Paul
+1143,s2029-114,Dianne Feinstein
+1144,s203-114,Orrin G. Hatch
+1145,s2030-114,Michael F. Bennet
+1146,s2031-114,John Barrasso
+1147,s2032-114,John Hoeven
+1148,s2033-114,Brian Schatz
+1149,s2034-114,Pat Toomey
+1150,s2035-114,Benjamin L. Cardin
+1151,s2036-114,David Vitter
+1152,s2037-114,Barbara Boxer
+1153,s2038-114,Bob Corker
+1154,s2039-114,Michael B. Enzi
+1155,s204-114,Barbara Boxer
+1156,s2040-114,John Cornyn
+1157,s2041-114,Robert P. Jr. Casey
+1158,s2042-114,Patty Murray
+1159,s2043-114,Chuck Grassley
+1160,s2044-114,John Thune
+1161,s2045-114,Dean Heller
+1162,s2046-114,Lisa Murkowski
+1163,s2047-114,Kelly Ayotte
+1164,s2048-114,Mazie K. Hirono
+1165,s2049-114,Sherrod Brown
+1166,s205-114,Bill Cassidy
+1167,s2050-114,Heidi Heitkamp
+1168,s2051-114,Thomas R. Carper
+1169,s2052-114,Amy Klobuchar
+1170,s2053-114,David Vitter
+1171,s2054-114,Bernard Sanders
+1172,s2055-114,Richard Burr
+1173,s2056-114,Lisa Murkowski
+1174,s2057-114,John Boozman
+1175,s2058-114,Richard Burr
+1176,s2059-114,Susan M. Collins
+1177,s206-114,Kelly Ayotte
+1178,s2060-114,Lisa Murkowski
+1179,s2061-114,Jerry Moran
+1180,s2062-114,Mazie K. Hirono
+1181,s2063-114,Tom Udall
+1182,s2064-114,Tammy Baldwin
+1183,s2065-114,Tammy Baldwin
+1184,s2066-114,Ben Sasse
+1185,s2067-114,Roger F. Wicker
+1186,s2068-114,Susan M. Collins
+1187,s2069-114,Ron Wyden
+1188,s207-114,Jerry Moran
+1189,s2070-114,Kelly Ayotte
+1190,s2071-114,Mike Crapo
+1191,s2072-114,Orrin G. Hatch
+1192,s2073-114,Sheldon Whitehouse
+1193,s2074-114,Heidi Heitkamp
+1194,s2075-114,Sherrod Brown
+1195,s2076-114,Christopher S. Murphy
+1196,s2077-114,Pat Toomey
+1197,s2078-114,Bob Corker
+1198,s2079-114,Bob Corker
+1199,s208-114,Ron Johnson
+1200,s2080-114,Gary C. Peters
+1201,s2081-114,Richard Blumenthal
+1202,s2082-114,Johnny Isakson
+1203,s2083-114,Richard Burr
+1204,s2084-114,Mike Lee
+1205,s2085-114,Rob Portman
+1206,s2086-114,Pat Toomey
+1207,s2087-114,Jerry Moran
+1208,s2088-114,Kirsten E. Gillibrand
+1209,s2089-114,Maria Cantwell
+1210,s209-114,John Barrasso
+1211,s2090-114,Ron Wyden
+1212,s2091-114,Charles E. Schumer
+1213,s2092-114,Sherrod Brown
+1214,s2093-114,Barbara A. Mikulski
+1215,s2094-114,Ted Cruz
+1216,s2095-114,Maria Cantwell
+1217,s2096-114,Robert P. Jr. Casey
+1218,s2097-114,Tammy Baldwin
+1219,s2098-114,Christopher S. Murphy
+1220,s2099-114,Kelly Ayotte
+1221,s21-114,David Vitter
+1222,s210-114,Robert P. Jr. Casey
+1223,s2100-114,Brian Schatz
+1224,s2101-114,Richard Burr
+1225,s2102-114,Mike Lee
+1226,s2103-114,Joe Donnelly
+1227,s2104-114,Rob Portman
+1228,s2105-114,Christopher S. Murphy
+1229,s2106-114,Sherrod Brown
+1230,s2107-114,Jack Reed
+1231,s2108-114,Pat Toomey
+1232,s2109-114,Ron Johnson
+1233,s211-114,Robert P. Jr. Casey
+1234,s2110-114,Patty Murray
+1235,s2111-114,Michael F. Bennet
+1236,s2112-114,Tim Scott
+1237,s2113-114,Christopher A. Coons
+1238,s2114-114,Lisa Murkowski
+1239,s2115-114,Jeff Flake
+1240,s2116-114,Jeanne Shaheen
+1241,s2117-114,John Cornyn
+1242,s2118-114,Amy Klobuchar
+1243,s2119-114,Benjamin L. Cardin
+1244,s212-114,Barbara Boxer
+1245,s2120-114,Jeanne Shaheen
+1246,s2121-114,Jeanne Shaheen
+1247,s2122-114,Rand Paul
+1248,s2123-114,Chuck Grassley
+1249,s2124-114,Debbie Stabenow
+1250,s2125-114,Dianne Feinstein
+1251,s2126-114,Maria Cantwell
+1252,s2127-114,Ron Johnson
+1253,s2128-114,Ben Sasse
+1254,s2129-114,Thad Cochran
+1255,s213-114,Barbara Boxer
+1256,s2130-114,Thad Cochran
+1257,s2131-114,Thad Cochran
+1258,s2132-114,Thad Cochran
+1259,s2133-114,Thomas R. Carper
+1260,s2134-114,Jon Tester
+1261,s2135-114,Tom Cotton
+1262,s2136-114,David Vitter
+1263,s2137-114,Roy Blunt
+1264,s2138-114,David Vitter
+1265,s2139-114,David Vitter
+1266,s214-114,Robert Menendez
+1267,s2140-114,Richard Blumenthal
+1268,s2141-114,Bill Cassidy
+1269,s2142-114,Bernard Sanders
+1270,s2143-114,John Cornyn
+1271,s2144-114,Cory Gardner
+1272,s2145-114,Lindsey Graham
+1273,s2146-114,David Vitter
+1274,s2147-114,Rob Portman
+1275,s2148-114,Ron Wyden
+1276,s2149-114,Chuck Grassley
+1277,s215-114,Richard Burr
+1278,s2150-114,Chuck Grassley
+1279,s2151-114,John Thune
+1280,s2152-114,Bob Corker
+1281,s2153-114,Chuck Grassley
+1282,s2154-114,Jeanne Shaheen
+1283,s2155-114,Barbara Boxer
+1284,s2156-114,Jeanne Shaheen
+1285,s2157-114,Barbara Boxer
+1286,s2158-114,James Lankford
+1287,s2159-114,David Vitter
+1288,s216-114,Jeff Sessions
+1289,s2160-114,Mark Steven Kirk
+1290,s2161-114,Jack Reed
+1291,s2162-114,Roy Blunt
+1292,s2163-114,Amy Klobuchar
+1293,s2164-114,Ron Wyden
+1294,s2165-114,Maria Cantwell
+1295,s2166-114,Roy Blunt
+1296,s2167-114,Christopher S. Murphy
+1297,s2168-114,Benjamin L. Cardin
+1298,s2169-114,Jon Tester
+1299,s217-114,Richard Blumenthal
+1300,s2170-114,Joni Ernst
+1301,s2171-114,Dianne Feinstein
+1302,s2172-114,Dianne Feinstein
+1303,s2173-114,Debbie Stabenow
+1304,s2174-114,Tim Kaine
+1305,s2175-114,Jon Tester
+1306,s2176-114,Richard Durbin
+1307,s2177-114,Thad Cochran
+1308,s2178-114,John Boozman
+1309,s2179-114,Richard Blumenthal
+1310,s218-114,Michael B. Enzi
+1311,s2180-114,Mark Steven Kirk
+1312,s2181-114,Rand Paul
+1313,s2182-114,Rand Paul
+1314,s2183-114,Mark Steven Kirk
+1315,s2184-114,Marco Rubio
+1316,s2185-114,Heidi Heitkamp
+1317,s2186-114,Marco Rubio
+1318,s2187-114,Joe Donnelly
+1319,s2188-114,Cory Gardner
+1320,s2189-114,Martin Heinrich
+1321,s219-114,Robert P. Jr. Casey
+1322,s2190-114,Jon Tester
+1323,s2191-114,Ron Wyden
+1324,s2192-114,Charles E. Schumer
+1325,s2193-114,Ted Cruz
+1326,s2194-114,Susan M. Collins
+1327,s2195-114,Rand Paul
+1328,s2196-114,Robert P. Jr. Casey
+1329,s2197-114,Mike Crapo
+1330,s2198-114,Richard Blumenthal
+1331,s2199-114,Michael B. Enzi
+1332,s22-114,Charles E. Schumer
+1333,s220-114,Robert P. Jr. Casey
+1334,s2200-114,Deb Fischer
+1335,s2201-114,Bob Corker
+1336,s2202-114,Amy Klobuchar
+1337,s2203-114,Robert Menendez
+1338,s2204-114,Barbara Boxer
+1339,s2205-114,Jon Tester
+1340,s2206-114,Dan Sullivan
+1341,s2207-114,Robert Menendez
+1342,s2208-114,Patty Murray
+1343,s2209-114,Mike Crapo
+1344,s221-114,Robert P. Jr. Casey
+1345,s2210-114,Richard Blumenthal
+1346,s2211-114,Jerry Moran
+1347,s2212-114,Angus S. Jr. King
+1348,s2213-114,Richard Blumenthal
+1349,s2214-114,Kirsten E. Gillibrand
+1350,s2215-114,Richard Burr
+1351,s2216-114,Susan M. Collins
+1352,s2217-114,Roy Blunt
+1353,s2218-114,John Thune
+1354,s2219-114,Jeanne Shaheen
+1355,s222-114,Barbara Boxer
+1356,s2220-114,Sherrod Brown
+1357,s2221-114,Pat Roberts
+1358,s2222-114,Al Franken
+1359,s2223-114,John Thune
+1360,s2224-114,Robert P. Jr. Casey
+1361,s2225-114,Thom Tillis
+1362,s2226-114,Kelly Ayotte
+1363,s2227-114,Joe Manchin III
+1364,s2228-114,Chuck Grassley
+1365,s2229-114,Jeanne Shaheen
+1366,s223-114,Barbara Boxer
+1367,s2230-114,Ted Cruz
+1368,s2231-114,Patrick J. Leahy
+1369,s2232-114,Rand Paul
+1370,s2233-114,David Vitter
+1371,s2234-114,Roy Blunt
+1372,s2235-114,Edward J. Markey
+1373,s2236-114,Mike Crapo
+1374,s2237-114,Bernard Sanders
+1375,s2238-114,Jeff Merkley
+1376,s2239-114,Tom Udall
+1377,s224-114,Barbara Boxer
+1378,s2240-114,John Barrasso
+1379,s2241-114,Jeanne Shaheen
+1380,s2242-114,Bernard Sanders
+1381,s2243-114,Ron Johnson
+1382,s2244-114,Jeff Flake
+1383,s2245-114,Cory Gardner
+1384,s2246-114,Tim Scott
+1385,s2247-114,Jeanne Shaheen
+1386,s2248-114,Richard Durbin
+1387,s2249-114,Sheldon Whitehouse
+1388,s225-114,John Thune
+1389,s2250-114,Gary C. Peters
+1390,s2251-114,Elizabeth Warren
+1391,s2252-114,Sherrod Brown
+1392,s2253-114,Richard Blumenthal
+1393,s2254-114,Tom Udall
+1394,s2255-114,Cory A. Booker
+1395,s2256-114,Tim Kaine
+1396,s2257-114,Maria Cantwell
+1397,s2258-114,Orrin G. Hatch
+1398,s2259-114,Maria Cantwell
+1399,s226-114,Rand Paul
+1400,s2260-114,Mark R. Warner
+1401,s2261-114,John Thune
+1402,s2262-114,James M. Inhofe
+1403,s2263-114,Roy Blunt
+1404,s2264-114,Michael F. Bennet
+1405,s2265-114,Tom Udall
+1406,s2266-114,Chuck Grassley
+1407,s2267-114,Patty Murray
+1408,s2268-114,John Cornyn
+1409,s2269-114,Mark Steven Kirk
+1410,s227-114,Lamar Alexander
+1411,s2270-114,Al Franken
+1412,s2271-114,Debbie Stabenow
+1413,s2272-114,Richard Durbin
+1414,s2273-114,Cory A. Booker
+1415,s2274-114,Jon Tester
+1416,s2275-114,Amy Klobuchar
+1417,s2276-114,Deb Fischer
+1418,s2277-114,Robert P. Jr. Casey
+1419,s2278-114,Brian Schatz
+1420,s2279-114,Jeff Merkley
+1421,s228-114,Mike Crapo
+1422,s2280-114,Dan Sullivan
+1423,s2281-114,Ron Johnson
+1424,s2282-114,Orrin G. Hatch
+1425,s2283-114,Steve Daines
+1426,s2284-114,David Vitter
+1427,s2285-114,Richard Burr
+1428,s2286-114,Mike Lee
+1429,s2287-114,Tom Udall
+1430,s2288-114,Rand Paul
+1431,s2289-114,Tim Kaine
+1432,s229-114,Sheldon Whitehouse
+1433,s2290-114,Mike Lee
+1434,s2291-114,Mark Steven Kirk
+1435,s2292-114,Jon Tester
+1436,s2293-114,Patty Murray
+1437,s2294-114,Amy Klobuchar
+1438,s2295-114,Tom Cotton
+1439,s2296-114,John Cornyn
+1440,s2297-114,Christopher A. Coons
+1441,s2298-114,Orrin G. Hatch
+1442,s2299-114,Amy Klobuchar
+1443,s23-114,Patrick J. Leahy
+1444,s230-114,Lisa Murkowski
+1445,s2300-114,Ron Johnson
+1446,s2301-114,Richard Blumenthal
+1447,s2302-114,Ted Cruz
+1448,s2303-114,John McCain
+1449,s2304-114,Jon Tester
+1450,s2305-114,Michael F. Bennet
+1451,s2306-114,Roy Blunt
+1452,s2307-114,Jeanne Shaheen
+1453,s2308-114,Benjamin L. Cardin
+1454,s2309-114,Sherrod Brown
+1455,s231-114,Pat Toomey
+1456,s2310-114,Steve Daines
+1457,s2311-114,Dean Heller
+1458,s2312-114,John Thune
+1459,s2313-114,Cory Gardner
+1460,s2314-114,Jerry Moran
+1461,s2315-114,Robert Menendez
+1462,s2316-114,Richard Blumenthal
+1463,s2317-114,Mazie K. Hirono
+1464,s2318-114,John Barrasso
+1465,s2319-114,John Thune
+1466,s232-114,Dean Heller
+1467,s2320-114,Jeff Flake
+1468,s2321-114,Jeff Merkley
+1469,s2322-114,Charles E. Schumer
+1470,s2323-114,Richard Durbin
+1471,s2324-114,Kirsten E. Gillibrand
+1472,s2325-114,Tammy Baldwin
+1473,s2326-114,Maria Cantwell
+1474,s2327-114,Robert P. Jr. Casey
+1475,s2328-114,Roger F. Wicker
+1476,s2329-114,Rand Paul
+1477,s233-114,Mike Lee
+1478,s2330-114,Cory A. Booker
+1479,s2331-114,Jack Reed
+1480,s2332-114,Charles E. Schumer
+1481,s2333-114,Benjamin L. Cardin
+1482,s2334-114,Bill Cassidy
+1483,s2335-114,Robert Menendez
+1484,s2336-114,Christopher A. Coons
+1485,s2337-114,Dianne Feinstein
+1486,s2338-114,Mazie K. Hirono
+1487,s2339-114,Edward J. Markey
+1488,s234-114,David Vitter
+1489,s2340-114,Bill Cassidy
+1490,s2341-114,Michael F. Bennet
+1491,s2342-114,Bill Nelson
+1492,s2343-114,Cory Gardner
+1493,s2344-114,Tom Cotton
+1494,s2345-114,Richard Burr
+1495,s2346-114,Bill Nelson
+1496,s2347-114,Sheldon Whitehouse
+1497,s2348-114,Orrin G. Hatch
+1498,s2349-114,Dean Heller
+1499,s235-114,Ron Wyden
+1500,s2350-114,Rand Paul
+1501,s2351-114,Johnny Isakson
+1502,s2352-114,Robert P. Jr. Casey
+1503,s2353-114,Chuck Grassley
+1504,s2354-114,Deb Fischer
+1505,s2355-114,Mark Steven Kirk
+1506,s2356-114,Angus S. Jr. King
+1507,s2357-114,Sheldon Whitehouse
+1508,s2358-114,Sherrod Brown
+1509,s2359-114,Rand Paul
+1510,s236-114,Joe Manchin III
+1511,s2360-114,Lisa Murkowski
+1512,s2361-114,John Thune
+1513,s2362-114,Ron Johnson
+1514,s2363-114,Ted Cruz
+1515,s2364-114,Benjamin L. Cardin
+1516,s2365-114,Bill Nelson
+1517,s2366-114,Tom Udall
+1518,s2367-114,John McCain
+1519,s2368-114,Orrin G. Hatch
+1520,s2369-114,Thomas R. Carper
+1521,s237-114,Ron Wyden
+1522,s2370-114,Pat Roberts
+1523,s2371-114,Johnny Isakson
+1524,s2372-114,Dianne Feinstein
+1525,s2373-114,Maria Cantwell
+1526,s2374-114,Edward J. Markey
+1527,s2375-114,Ron Johnson
+1528,s2376-114,Benjamin L. Cardin
+1529,s2377-114,Harry Reid
+1530,s2378-114,Bill Cassidy
+1531,s2379-114,Jeff Flake
+1532,s238-114,Pat Toomey
+1533,s2380-114,Jeff Flake
+1534,s2381-114,Orrin G. Hatch
+1535,s2382-114,Dean Heller
+1536,s2383-114,Orrin G. Hatch
+1537,s2384-114,Jeff Flake
+1538,s2385-114,Christopher A. Coons
+1539,s2386-114,Kirsten E. Gillibrand
+1540,s2387-114,Ron Wyden
+1541,s2388-114,Ted Cruz
+1542,s2389-114,Susan M. Collins
+1543,s239-114,Michael B. Enzi
+1544,s2390-114,Chuck Grassley
+1545,s2391-114,Bernard Sanders
+1546,s2392-114,Sherrod Brown
+1547,s2393-114,Sheldon Whitehouse
+1548,s2394-114,Ted Cruz
+1549,s2395-114,John McCain
+1550,s2396-114,Johnny Isakson
+1551,s2397-114,Harry Reid
+1552,s2398-114,Bernard Sanders
+1553,s2399-114,Bernard Sanders
+1554,s24-114,Dianne Feinstein
+1555,s240-114,Cory A. Booker
+1556,s2400-114,Cory A. Booker
+1557,s2401-114,Amy Klobuchar
+1558,s2402-114,John McCain
+1559,s2403-114,Roy Blunt
+1560,s2404-114,Richard Blumenthal
+1561,s2405-114,Charles E. Schumer
+1562,s2406-114,John McCain
+1563,s2407-114,Edward J. Markey
+1564,s2408-114,Al Franken
+1565,s2409-114,Ron Wyden
+1566,s241-114,Jon Tester
+1567,s2410-114,Jack Reed
+1568,s2411-114,Martin Heinrich
+1569,s2412-114,Barbara Boxer
+1570,s2413-114,Robert Menendez
+1571,s2414-114,Richard Blumenthal
+1572,s2415-114,Jeff Flake
+1573,s2416-114,Chuck Grassley
+1574,s2417-114,John Thune
+1575,s2418-114,Cory A. Booker
+1576,s2419-114,Jack Reed
+1577,s242-114,Jon Tester
+1578,s2420-114,Richard Blumenthal
+1579,s2421-114,Lisa Murkowski
+1580,s2422-114,Dianne Feinstein
+1581,s2423-114,Jeanne Shaheen
+1582,s2424-114,Rob Portman
+1583,s2425-114,Rob Portman
+1584,s2426-114,Cory Gardner
+1585,s2427-114,Charles E. Schumer
+1586,s2428-114,Michael F. Bennet
+1587,s2429-114,Kelly Ayotte
+1588,s243-114,Deb Fischer
+1589,s2430-114,Maria Cantwell
+1590,s2431-114,Amy Klobuchar
+1591,s2432-114,Tim Scott
+1592,s2433-114,Charles E. Schumer
+1593,s2434-114,Rand Paul
+1594,s2435-114,Mark Steven Kirk
+1595,s2436-114,Elizabeth Warren
+1596,s2437-114,Barbara A. Mikulski
+1597,s2438-114,Sherrod Brown
+1598,s2439-114,Richard Burr
+1599,s244-114,Jon Tester
+1600,s2440-114,Steve Daines
+1601,s2441-114,Marco Rubio
+1602,s2442-114,Dianne Feinstein
+1603,s2443-114,Tammy Baldwin
+1604,s2444-114,James M. Inhofe
+1605,s2445-114,Amy Klobuchar
+1606,s2446-114,John Hoeven
+1607,s2447-114,John Cornyn
+1608,s2448-114,Christopher A. Coons
+1609,s2449-114,Jeff Flake
+1610,s245-114,Sheldon Whitehouse
+1611,s2450-114,Jon Tester
+1612,s2451-114,Ted Cruz
+1613,s2452-114,Jerry Moran
+1614,s2453-114,Rand Paul
+1615,s2454-114,Rand Paul
+1616,s2455-114,Ted Cruz
+1617,s2456-114,Mark R. Warner
+1618,s2457-114,Mark R. Warner
+1619,s2458-114,Benjamin L. Cardin
+1620,s2459-114,Mitch McConnell
+1621,s246-114,Heidi Heitkamp
+1622,s2460-114,Mike Rounds
+1623,s2461-114,Mike Crapo
+1624,s2462-114,Richard Blumenthal
+1625,s2463-114,Richard Blumenthal
+1626,s2464-114,Rand Paul
+1627,s2465-114,Kirsten E. Gillibrand
+1628,s2466-114,Gary C. Peters
+1629,s2467-114,Sheldon Whitehouse
+1630,s2468-114,Jon Tester
+1631,s2469-114,Richard Blumenthal
+1632,s247-114,Ted Cruz
+1633,s2470-114,John McCain
+1634,s2471-114,Mark Steven Kirk
+1635,s2472-114,Jeff Merkley
+1636,s2473-114,Dan Sullivan
+1637,s2474-114,Tom Cotton
+1638,s2475-114,Dan Sullivan
+1639,s2476-114,Rob Portman
+1640,s2477-114,Steve Daines
+1641,s2478-114,Patty Murray
+1642,s2479-114,Richard Blumenthal
+1643,s248-114,Jerry Moran
+1644,s2480-114,Tammy Baldwin
+1645,s2481-114,Bill Nelson
+1646,s2482-114,Mike Rounds
+1647,s2483-114,Tom Udall
+1648,s2484-114,Brian Schatz
+1649,s2485-114,John Thune
+1650,s2486-114,Mark Steven Kirk
+1651,s2487-114,Barbara Boxer
+1652,s2488-114,Jerry Moran
+1653,s2489-114,Sheldon Whitehouse
+1654,s249-114,Ted Cruz
+1655,s2490-114,Jeff Flake
+1656,s2491-114,Gary C. Peters
+1657,s2492-114,Ron Wyden
+1658,s2493-114,Bill Cassidy
+1659,s2494-114,Edward J. Markey
+1660,s2495-114,Mike Crapo
+1661,s2496-114,Christopher A. Coons
+1662,s2497-114,Roy Blunt
+1663,s2498-114,Michael F. Bennet
+1664,s2499-114,Orrin G. Hatch
+1665,s25-114,Jeanne Shaheen
+1666,s250-114,Orrin G. Hatch
+1667,s2500-114,Michael F. Bennet
+1668,s2501-114,Lisa Murkowski
+1669,s2502-114,Johnny Isakson
+1670,s2503-114,Patty Murray
+1671,s2504-114,Ron Wyden
+1672,s2505-114,Mark Steven Kirk
+1673,s2506-114,Patrick J. Leahy
+1674,s2507-114,Dan Sullivan
+1675,s2508-114,Tom Udall
+1676,s2509-114,Thomas R. Carper
+1677,s251-114,Jack Reed
+1678,s2510-114,Orrin G. Hatch
+1679,s2511-114,Lamar Alexander
+1680,s2512-114,Al Franken
+1681,s2513-114,David Perdue
+1682,s2514-114,Tom Cotton
+1683,s2515-114,Richard Burr
+1684,s2516-114,Mark Steven Kirk
+1685,s2517-114,Ron Johnson
+1686,s2518-114,Ron Johnson
+1687,s2519-114,John McCain
+1688,s252-114,John Cornyn
+1689,s2520-114,Amy Klobuchar
+1690,s2521-114,Joni Ernst
+1691,s2522-114,Thomas R. Carper
+1692,s2523-114,Rand Paul
+1693,s2524-114,Cory Gardner
+1694,s2525-114,Debbie Stabenow
+1695,s2526-114,Kirsten E. Gillibrand
+1696,s2527-114,Jon Tester
+1697,s2528-114,Bill Nelson
+1698,s2529-114,Dan Sullivan
+1699,s253-114,Dean Heller
+1700,s2530-114,Lisa Murkowski
+1701,s2531-114,Mark Steven Kirk
+1702,s2532-114,Benjamin L. Cardin
+1703,s2533-114,Dianne Feinstein
+1704,s2534-114,Pat Toomey
+1705,s2535-114,Sherrod Brown
+1706,s2536-114,Brian Schatz
+1707,s2537-114,Ted Cruz
+1708,s2538-114,Ted Cruz
+1709,s2539-114,Robert P. Jr. Casey
+1710,s254-114,Rob Portman
+1711,s2540-114,Harry Reid
+1712,s2541-114,Richard Blumenthal
+1713,s2542-114,Shelley Moore Capito
+1714,s2543-114,Joe Manchin III
+1715,s2544-114,Patrick J. Leahy
+1716,s2545-114,Jeanne Shaheen
+1717,s2546-114,Sheldon Whitehouse
+1718,s2547-114,Robert Menendez
+1719,s2548-114,Tim Kaine
+1720,s2549-114,Jeff Merkley
+1721,s255-114,Rand Paul
+1722,s2550-114,Claire McCaskill
+1723,s2551-114,Benjamin L. Cardin
+1724,s2552-114,Dianne Feinstein
+1725,s2553-114,Amy Klobuchar
+1726,s2554-114,James M. Inhofe
+1727,s2555-114,John Thune
+1728,s2556-114,Amy Klobuchar
+1729,s2557-114,Robert P. Jr. Casey
+1730,s2558-114,Bill Nelson
+1731,s2559-114,Richard Burr
+1732,s256-114,Dianne Feinstein
+1733,s2560-114,Gary C. Peters
+1734,s2561-114,Jeff Sessions
+1735,s2562-114,Sherrod Brown
+1736,s2563-114,Jerry Moran
+1737,s2564-114,Jeff Flake
+1738,s2565-114,Chuck Grassley
+1739,s2566-114,Jeanne Shaheen
+1740,s2567-114,Kirsten E. Gillibrand
+1741,s2568-114,Dianne Feinstein
+1742,s2569-114,Gary C. Peters
+1743,s257-114,Jerry Moran
+1744,s2570-114,Rob Portman
+1745,s2571-114,Gary C. Peters
+1746,s2572-114,Jon Tester
+1747,s2573-114,Sheldon Whitehouse
+1748,s2574-114,Chuck Grassley
+1749,s2575-114,Christopher S. Murphy
+1750,s2576-114,Kelly Ayotte
+1751,s2577-114,John Cornyn
+1752,s2578-114,Elizabeth Warren
+1753,s2579-114,Debbie Stabenow
+1754,s258-114,Pat Roberts
+1755,s2580-114,John Barrasso
+1756,s2581-114,Richard Burr
+1757,s2582-114,Joni Ernst
+1758,s2583-114,Benjamin L. Cardin
+1759,s2584-114,Mark Steven Kirk
+1760,s2585-114,Jeff Flake
+1761,s2586-114,Benjamin L. Cardin
+1762,s2587-114,Benjamin L. Cardin
+1763,s2588-114,Benjamin L. Cardin
+1764,s2589-114,Ron Johnson
+1765,s259-114,John Hoeven
+1766,s2590-114,Debbie Stabenow
+1767,s2591-114,Tammy Baldwin
+1768,s2592-114,Jeff Merkley
+1769,s2593-114,Robert P. Jr. Casey
+1770,s2594-114,Richard Blumenthal
+1771,s2595-114,Mike Crapo
+1772,s2596-114,Dean Heller
+1773,s2597-114,Sherrod Brown
+1774,s2598-114,Elizabeth Warren
+1775,s2599-114,Claire McCaskill
+1776,s26-114,Christopher S. Murphy
+1777,s260-114,Claire McCaskill
+1778,s2600-114,Mike Lee
+1779,s2601-114,Mark Steven Kirk
+1780,s2602-114,Mike Lee
+1781,s2603-114,Edward J. Markey
+1782,s2604-114,Mark R. Warner
+1783,s2605-114,Richard Durbin
+1784,s2606-114,Robert Menendez
+1785,s2607-114,Deb Fischer
+1786,s2608-114,Mark Steven Kirk
+1787,s2609-114,Pat Roberts
+1788,s261-114,James M. Inhofe
+1789,s2610-114,Lisa Murkowski
+1790,s2611-114,Tom Udall
+1791,s2612-114,Patrick J. Leahy
+1792,s2613-114,Chuck Grassley
+1793,s2614-114,Charles E. Schumer
+1794,s2615-114,Susan M. Collins
+1795,s2616-114,Cory Gardner
+1796,s2617-114,John Cornyn
+1797,s2618-114,Chuck Grassley
+1798,s2619-114,Heidi Heitkamp
+1799,s262-114,Patrick J. Leahy
+1800,s2620-114,Richard Blumenthal
+1801,s2621-114,Jeff Merkley
+1802,s2622-114,Kirsten E. Gillibrand
+1803,s2623-114,Al Franken
+1804,s2624-114,Elizabeth Warren
+1805,s2625-114,Pat Toomey
+1806,s2626-114,Gary C. Peters
+1807,s2627-114,Dean Heller
+1808,s2628-114,Christopher A. Coons
+1809,s2629-114,Benjamin L. Cardin
+1810,s263-114,Mike Crapo
+1811,s2630-114,Al Franken
+1812,s2631-114,Richard Durbin
+1813,s2632-114,Bill Cassidy
+1814,s2633-114,Jon Tester
+1815,s2634-114,Al Franken
+1816,s2635-114,Maria Cantwell
+1817,s2636-114,Jon Tester
+1818,s2637-114,Dan Sullivan
+1819,s2638-114,Dan Sullivan
+1820,s2639-114,Patrick J. Leahy
+1821,s264-114,Rand Paul
+1822,s2640-114,Lisa Murkowski
+1823,s2641-114,Charles E. Schumer
+1824,s2642-114,Amy Klobuchar
+1825,s2643-114,Tom Udall
+1826,s2644-114,John Thune
+1827,s2645-114,Jeanne Shaheen
+1828,s2646-114,Richard Burr
+1829,s2647-114,Elizabeth Warren
+1830,s2648-114,Tom Udall
+1831,s2649-114,Mike Rounds
+1832,s265-114,Tim Scott
+1833,s2650-114,John Thune
+1834,s2651-114,Angus S. Jr. King
+1835,s2652-114,Kirsten E. Gillibrand
+1836,s2653-114,Patty Murray
+1837,s2654-114,Barbara Boxer
+1838,s2655-114,Benjamin L. Cardin
+1839,s2656-114,Edward J. Markey
+1840,s2657-114,Mark Steven Kirk
+1841,s2658-114,John Thune
+1842,s2659-114,Richard Burr
+1843,s266-114,Susan M. Collins
+1844,s2660-114,Mike Rounds
+1845,s2661-114,Sherrod Brown
+1846,s2662-114,Sherrod Brown
+1847,s2663-114,Jerry Moran
+1848,s2664-114,Cory Gardner
+1849,s2665-114,Gary C. Peters
+1850,s2666-114,Charles E. Schumer
+1851,s2667-114,Roger F. Wicker
+1852,s2668-114,Susan M. Collins
+1853,s2669-114,John Cornyn
+1854,s267-114,Pat Toomey
+1855,s2670-114,David Vitter
+1856,s2671-114,Bill Nelson
+1857,s2672-114,Susan M. Collins
+1858,s2673-114,Tammy Baldwin
+1859,s2674-114,Barbara Boxer
+1860,s2675-114,Robert Menendez
+1861,s2676-114,Robert Menendez
+1862,s2677-114,Tammy Baldwin
+1863,s2678-114,Brian Schatz
+1864,s2679-114,Amy Klobuchar
+1865,s268-114,Bernard Sanders
+1866,s2680-114,Lamar Alexander
+1867,s2681-114,Martin Heinrich
+1868,s2682-114,Kirsten E. Gillibrand
+1869,s2683-114,Mazie K. Hirono
+1870,s2684-114,James M. Inhofe
+1871,s2685-114,Richard Durbin
+1872,s2686-114,Lamar Alexander
+1873,s2687-114,Robert P. Jr. Casey
+1874,s2688-114,Joni Ernst
+1875,s2689-114,Mark Steven Kirk
+1876,s269-114,Mark Steven Kirk
+1877,s2690-114,James E. Risch
+1878,s2691-114,Sheldon Whitehouse
+1879,s2692-114,Rob Portman
+1880,s2693-114,Lamar Alexander
+1881,s2694-114,Pat Toomey
+1882,s2695-114,Rand Paul
+1883,s2696-114,Rand Paul
+1884,s2697-114,Patty Murray
+1885,s2698-114,John Thune
+1886,s2699-114,Brian Schatz
+1887,s27-114,Dianne Feinstein
+1888,s270-114,Jeanne Shaheen
+1889,s2700-114,Lamar Alexander
+1890,s2701-114,Martin Heinrich
+1891,s2702-114,Richard Burr
+1892,s2703-114,Robert P. Jr. Casey
+1893,s2704-114,Robert P. Jr. Casey
+1894,s2705-114,Mazie K. Hirono
+1895,s2706-114,Ron Wyden
+1896,s2707-114,Tim Scott
+1897,s2708-114,Tom Cotton
+1898,s2709-114,Claire McCaskill
+1899,s271-114,Harry Reid
+1900,s2710-114,Mazie K. Hirono
+1901,s2711-114,John McCain
+1902,s2712-114,John Boozman
+1903,s2713-114,Lamar Alexander
+1904,s2714-114,Claire McCaskill
+1905,s2715-114,Claire McCaskill
+1906,s2716-114,Jack Reed
+1907,s2717-114,John Barrasso
+1908,s2718-114,Tim Kaine
+1909,s2719-114,Patty Murray
+1910,s272-114,Jeanne Shaheen
+1911,s2720-114,Tammy Baldwin
+1912,s2721-114,Christopher S. Murphy
+1913,s2722-114,Heidi Heitkamp
+1914,s2723-114,Chuck Grassley
+1915,s2724-114,Orrin G. Hatch
+1916,s2725-114,Kelly Ayotte
+1917,s2726-114,Mark Steven Kirk
+1918,s2727-114,Dan Sullivan
+1919,s2728-114,Dan Sullivan
+1920,s2729-114,Patty Murray
+1921,s273-114,Ted Cruz
+1922,s2730-114,Edward J. Markey
+1923,s2731-114,Edward J. Markey
+1924,s2732-114,Dan Sullivan
+1925,s2733-114,Jeff Flake
+1926,s2734-114,Christopher S. Murphy
+1927,s2735-114,Charles E. Schumer
+1928,s2736-114,John Thune
+1929,s2737-114,Amy Klobuchar
+1930,s2738-114,Chuck Grassley
+1931,s2739-114,Maria Cantwell
+1932,s274-114,Ted Cruz
+1933,s2740-114,Mark Steven Kirk
+1934,s2741-114,Sherrod Brown
+1935,s2742-114,Lamar Alexander
+1936,s2743-114,Chuck Grassley
+1937,s2744-114,Elizabeth Warren
+1938,s2745-114,Susan M. Collins
+1939,s2746-114,Kelly Ayotte
+1940,s2747-114,Richard Blumenthal
+1941,s2748-114,Tammy Baldwin
+1942,s2749-114,Kelly Ayotte
+1943,s275-114,Johnny Isakson
+1944,s2750-114,John Thune
+1945,s2751-114,Christopher A. Coons
+1946,s2752-114,Marco Rubio
+1947,s2753-114,Orrin G. Hatch
+1948,s2754-114,Bill Cassidy
+1949,s2755-114,Roy Blunt
+1950,s2756-114,Mike Rounds
+1951,s2757-114,Dan Sullivan
+1952,s2758-114,Ron Johnson
+1953,s2759-114,Joni Ernst
+1954,s276-114,Robert Menendez
+1955,s2760-114,Jeff Merkley
+1956,s2761-114,Elizabeth Warren
+1957,s2762-114,Daniel Coats
+1958,s2763-114,John Cornyn
+1959,s2764-114,Edward J. Markey
+1960,s2765-114,Cory A. Booker
+1961,s2766-114,Chuck Grassley
+1962,s2767-114,Robert Menendez
+1963,s2768-114,Sherrod Brown
+1964,s2769-114,Charles E. Schumer
+1965,s277-114,Jack Reed
+1966,s2770-114,Pat Roberts
+1967,s2771-114,James M. Inhofe
+1968,s2772-114,Tammy Baldwin
+1969,s2773-114,Kelly Ayotte
+1970,s2774-114,Jerry Moran
+1971,s2775-114,Orrin G. Hatch
+1972,s2776-114,Cory A. Booker
+1973,s2777-114,Bill Cassidy
+1974,s2778-114,Martin Heinrich
+1975,s2779-114,Christopher A. Coons
+1976,s278-114,Roy Blunt
+1977,s2780-114,Jerry Moran
+1978,s2781-114,David Perdue
+1979,s2782-114,Roy Blunt
+1980,s2783-114,Jeanne Shaheen
+1981,s2784-114,Mazie K. Hirono
+1982,s2785-114,Jon Tester
+1983,s2786-114,Shelley Moore Capito
+1984,s2787-114,Mark R. Warner
+1985,s2788-114,James M. Inhofe
+1986,s2789-114,Elizabeth Warren
+1987,s279-114,Kelly Ayotte
+1988,s2790-114,Ted Cruz
+1989,s2791-114,Al Franken
+1990,s2792-114,Jeanne Shaheen
+1991,s2793-114,Jeanne Shaheen
+1992,s2794-114,Orrin G. Hatch
+1993,s2795-114,James M. Inhofe
+1994,s2796-114,Mike Rounds
+1995,s2797-114,Cory A. Booker
+1996,s2798-114,James Lankford
+1997,s2799-114,Robert Menendez
+1998,s28-114,Dianne Feinstein
+1999,s280-114,Rob Portman
+2000,s2800-114,Christopher A. Coons
+2001,s2801-114,Robert Menendez
+2002,s2802-114,Rand Paul
+2003,s2803-114,Ben Sasse
+2004,s2804-114,Lamar Alexander
+2005,s2805-114,Al Franken
+2006,s2806-114,Mark Steven Kirk
+2007,s2807-114,Bill Cassidy
+2008,s2808-114,James M. Inhofe
+2009,s2809-114,Rob Portman
+2010,s281-114,Roy Blunt
+2011,s2810-114,Christopher S. Murphy
+2012,s2811-114,Bill Cassidy
+2013,s2812-114,Jeanne Shaheen
+2014,s2813-114,Richard Blumenthal
+2015,s2814-114,John McCain
+2016,s2815-114,Robert P. Jr. Casey
+2017,s2816-114,Thomas R. Carper
+2018,s2817-114,Gary C. Peters
+2019,s2818-114,Jack Reed
+2020,s2819-114,Jack Reed
+2021,s282-114,James Lankford
+2022,s2820-114,Edward J. Markey
+2023,s2821-114,Benjamin L. Cardin
+2024,s2822-114,Rob Portman
+2025,s2823-114,Shelley Moore Capito
+2026,s2824-114,James M. Inhofe
+2027,s2825-114,Susan M. Collins
+2028,s2826-114,Mark R. Warner
+2029,s2827-114,Jeff Flake
+2030,s2828-114,Ron Wyden
+2031,s2829-114,Deb Fischer
+2032,s283-114,Jeff Flake
+2033,s2830-114,Charles E. Schumer
+2034,s2831-114,David Vitter
+2035,s2832-114,Johnny Isakson
+2036,s2833-114,Richard Blumenthal
+2037,s2834-114,Thomas R. Carper
+2038,s2835-114,Jack Reed
+2039,s2836-114,Al Franken
+2040,s2837-114,Richard C. Shelby
+2041,s2838-114,David Vitter
+2042,s2839-114,Lindsey Graham
+2043,s284-114,Benjamin L. Cardin
+2044,s2840-114,John Cornyn
+2045,s2841-114,Cory A. Booker
+2046,s2842-114,Heidi Heitkamp
+2047,s2843-114,Bill Nelson
+2048,s2844-114,Susan M. Collins
+2049,s2845-114,Marco Rubio
+2050,s2846-114,Gary C. Peters
+2051,s2847-114,Joni Ernst
+2052,s2848-114,James M. Inhofe
+2053,s2849-114,Ben Sasse
+2054,s285-114,Cory Gardner
+2055,s2850-114,Deb Fischer
+2056,s2851-114,John Thune
+2057,s2852-114,Brian Schatz
+2058,s2853-114,Jeanne Shaheen
+2059,s2854-114,Richard Burr
+2060,s2855-114,Gary C. Peters
+2061,s2856-114,John Cornyn
+2062,s2857-114,John Cornyn
+2063,s2858-114,Al Franken
+2064,s2859-114,Al Franken
+2065,s286-114,John Barrasso
+2066,s2860-114,Barbara Boxer
+2067,s2861-114,Mike Rounds
+2068,s2862-114,Orrin G. Hatch
+2069,s2863-114,Al Franken
+2070,s2864-114,Ron Wyden
+2071,s2865-114,Benjamin L. Cardin
+2072,s2866-114,Joe Manchin III
+2073,s2867-114,Heidi Heitkamp
+2074,s2868-114,Tim Scott
+2075,s2869-114,Richard Burr
+2076,s287-114,Richard Durbin
+2077,s2870-114,Claire McCaskill
+2078,s2871-114,John Thune
+2079,s2872-114,Shelley Moore Capito
+2080,s2873-114,Orrin G. Hatch
+2081,s2874-114,Christopher S. Murphy
+2082,s2875-114,Mark R. Warner
+2083,s2876-114,Jeff Flake
+2084,s2877-114,Jeanne Shaheen
+2085,s2878-114,Marco Rubio
+2086,s2879-114,Kelly Ayotte
+2087,s288-114,Lamar Alexander
+2088,s2880-114,Patty Murray
+2089,s2881-114,Michael B. Enzi
+2090,s2882-114,Shelley Moore Capito
+2091,s2883-114,Sherrod Brown
+2092,s2884-114,Tom Cotton
+2093,s2885-114,Thom Tillis
+2094,s2886-114,Ron Wyden
+2095,s2887-114,Dan Sullivan
+2096,s2888-114,Richard Burr
+2097,s2889-114,Christopher A. Coons
+2098,s289-114,Richard Durbin
+2099,s2890-114,Kelly Ayotte
+2100,s2891-114,Richard Durbin
+2101,s2892-114,Debbie Stabenow
+2102,s2893-114,Chuck Grassley
+2103,s2894-114,Debbie Stabenow
+2104,s2895-114,Dianne Feinstein
+2105,s2896-114,John McCain
+2106,s2897-114,Richard Blumenthal
+2107,s2898-114,Jeanne Shaheen
+2108,s2899-114,John Thune
+2109,s29-114,Dianne Feinstein
+2110,s290-114,Jerry Moran
+2111,s2900-114,Charles E. Schumer
+2112,s2901-114,Mark R. Warner
+2113,s2902-114,Jeff Flake
+2114,s2903-114,Harry Reid
+2115,s2904-114,Sheldon Whitehouse
+2116,s2905-114,Mike Rounds
+2117,s2906-114,Al Franken
+2118,s2907-114,Harry Reid
+2119,s2908-114,Cory A. Booker
+2120,s2909-114,Bill Nelson
+2121,s291-114,James M. Inhofe
+2122,s2910-114,Mike Rounds
+2123,s2911-114,Chuck Grassley
+2124,s2912-114,Ron Johnson
+2125,s2913-114,Al Franken
+2126,s2914-114,Chuck Grassley
+2127,s2915-114,Jeff Flake
+2128,s2916-114,Tom Udall
+2129,s2917-114,Pat Roberts
+2130,s2918-114,Jon Tester
+2131,s2919-114,Pat Toomey
+2132,s292-114,John Cornyn
+2133,s2920-114,John Barrasso
+2134,s2921-114,Johnny Isakson
+2135,s2922-114,Sheldon Whitehouse
+2136,s2923-114,Jeanne Shaheen
+2137,s2924-114,Harry Reid
+2138,s2925-114,Mark Steven Kirk
+2139,s2926-114,Tom Udall
+2140,s2927-114,James Lankford
+2141,s2928-114,Steve Daines
+2142,s2929-114,Charles E. Schumer
+2143,s293-114,John Cornyn
+2144,s2930-114,David Vitter
+2145,s2931-114,Lindsey Graham
+2146,s2932-114,Bill Cassidy
+2147,s2933-114,Tammy Baldwin
+2148,s2934-114,Charles E. Schumer
+2149,s2935-114,Jeff Flake
+2150,s2936-114,Richard Blumenthal
+2151,s2937-114,Bob Corker
+2152,s2938-114,Steve Daines
+2153,s2939-114,David Vitter
+2154,s294-114,Rob Portman
+2155,s2940-114,John Boozman
+2156,s2941-114,Kelly Ayotte
+2157,s2942-114,Bob Corker
+2158,s2943-114,John McCain
+2159,s2944-114,Chuck Grassley
+2160,s2945-114,Patty Murray
+2161,s2946-114,Cory A. Booker
+2162,s2947-114,Richard Blumenthal
+2163,s2948-114,Patty Murray
+2164,s2949-114,Amy Klobuchar
+2165,s295-114,Orrin G. Hatch
+2166,s2950-114,Cory Gardner
+2167,s2951-114,Lisa Murkowski
+2168,s2952-114,Ron Wyden
+2169,s2953-114,John Barrasso
+2170,s2954-114,Roy Blunt
+2171,s2955-114,Shelley Moore Capito
+2172,s2956-114,Jerry Moran
+2173,s2957-114,Bill Nelson
+2174,s2958-114,Deb Fischer
+2175,s2959-114,John McCain
+2176,s296-114,Dean Heller
+2177,s2960-114,Cory A. Booker
+2178,s2961-114,Richard Blumenthal
+2179,s2962-114,Maria Cantwell
+2180,s2963-114,Edward J. Markey
+2181,s2964-114,Ron Johnson
+2182,s2965-114,Rob Portman
+2183,s2966-114,James Lankford
+2184,s2967-114,Ron Johnson
+2185,s2968-114,Ron Johnson
+2186,s2969-114,Ron Johnson
+2187,s297-114,Mark Steven Kirk
+2188,s2970-114,Ron Johnson
+2189,s2971-114,Rob Portman
+2190,s2972-114,James Lankford
+2191,s2973-114,James M. Inhofe
+2192,s2974-114,Amy Klobuchar
+2193,s2975-114,Joni Ernst
+2194,s2976-114,Ron Johnson
+2195,s2977-114,Joe Manchin III
+2196,s2978-114,John Barrasso
+2197,s2979-114,Ron Wyden
+2198,s298-114,Chuck Grassley
+2199,s2980-114,Jeff Flake
+2200,s2981-114,Chuck Grassley
+2201,s2982-114,Mike Lee
+2202,s2983-114,Sherrod Brown
+2203,s2984-114,John Cornyn
+2204,s2985-114,Bill Cassidy
+2205,s2986-114,Orrin G. Hatch
+2206,s2987-114,Cory Gardner
+2207,s2988-114,Tim Kaine
+2208,s2989-114,Lisa Murkowski
+2209,s299-114,Jeff Flake
+2210,s2990-114,Susan M. Collins
+2211,s2991-114,Patty Murray
+2212,s2992-114,David Vitter
+2213,s2993-114,Deb Fischer
+2214,s2994-114,Robert P. Jr. Casey
+2215,s2995-114,Rand Paul
+2216,s2996-114,Brian Schatz
+2217,s2997-114,Maria Cantwell
+2218,s2998-114,Daniel Coats
+2219,s2999-114,Steve Daines
+2220,s30-114,Susan M. Collins
+2221,s300-114,Rand Paul
+2222,s3000-114,Thad Cochran
+2223,s3001-114,John Hoeven
+2224,s3002-114,Pat Toomey
+2225,s3003-114,Brian Schatz
+2226,s3004-114,Lisa Murkowski
+2227,s3005-114,Lisa Murkowski
+2228,s3006-114,Lisa Murkowski
+2229,s3007-114,Tom Cotton
+2230,s3008-114,Debbie Stabenow
+2231,s3009-114,Jeanne Shaheen
+2232,s301-114,Deb Fischer
+2233,s3010-114,Edward J. Markey
+2234,s3011-114,Ron Johnson
+2235,s3012-114,Jeanne Shaheen
+2236,s3013-114,Jon Tester
+2237,s3014-114,Steve Daines
+2238,s3015-114,Robert P. Jr. Casey
+2239,s3016-114,Robert P. Jr. Casey
+2240,s3017-114,Richard Burr
+2241,s3018-114,Angus S. Jr. King
+2242,s3019-114,Mike Rounds
+2243,s302-114,Edward J. Markey
+2244,s3020-114,Cory Gardner
+2245,s3021-114,James M. Inhofe
+2246,s3022-114,Sheldon Whitehouse
+2247,s3023-114,Claire McCaskill
+2248,s3024-114,David Vitter
+2249,s3025-114,Elizabeth Warren
+2250,s3026-114,Charles E. Schumer
+2251,s3027-114,Angus S. Jr. King
+2252,s3028-114,Maria Cantwell
+2253,s3029-114,Lisa Murkowski
+2254,s303-114,Pat Roberts
+2255,s3030-114,Jon Tester
+2256,s3031-114,Christopher S. Murphy
+2257,s3032-114,Johnny Isakson
+2258,s3033-114,Edward J. Markey
+2259,s3034-114,Ted Cruz
+2260,s3035-114,Dean Heller
+2261,s3036-114,Edward J. Markey
+2262,s3037-114,Tom Cotton
+2263,s3038-114,Bill Nelson
+2264,s3039-114,Angus S. Jr. King
+2265,s304-114,John Thune
+2266,s3040-114,Roy Blunt
+2267,s3041-114,Rand Paul
+2268,s3042-114,Richard Blumenthal
+2269,s3043-114,Amy Klobuchar
+2270,s3044-114,Bernard Sanders
+2271,s3045-114,Chuck Grassley
+2272,s3046-114,Robert P. Jr. Casey
+2273,s3047-114,Mike Lee
+2274,s3048-114,Ron Wyden
+2275,s3049-114,Tom Udall
+2276,s305-114,Orrin G. Hatch
+2277,s3050-114,James Lankford
+2278,s3051-114,Deb Fischer
+2279,s3052-114,Mark Steven Kirk
+2280,s3053-114,Robert P. Jr. Casey
+2281,s3054-114,Thad Cochran
+2282,s3055-114,Richard Burr
+2283,s3056-114,Patrick J. Leahy
+2284,s3057-114,Tim Scott
+2285,s3058-114,Bill Nelson
+2286,s3059-114,Maria Cantwell
+2287,s306-114,Mike Lee
+2288,s3060-114,Chuck Grassley
+2289,s3061-114,Joe Manchin III
+2290,s3062-114,Amy Klobuchar
+2291,s3063-114,Tammy Baldwin
+2292,s3064-114,Robert Menendez
+2293,s3065-114,Orrin G. Hatch
+2294,s3066-114,Maria Cantwell
+2295,s3067-114,John Boozman
+2296,s3068-114,Lisa Murkowski
+2297,s3069-114,Pat Toomey
+2298,s307-114,Robert Menendez
+2299,s3070-114,Al Franken
+2300,s3071-114,Kirsten E. Gillibrand
+2301,s3072-114,Ron Johnson
+2302,s3073-114,Tammy Baldwin
+2303,s3074-114,Edward J. Markey
+2304,s3075-114,Richard Durbin
+2305,s3076-114,Tom Cotton
+2306,s3077-114,Brian Schatz
+2307,s3078-114,Elizabeth Warren
+2308,s3079-114,Jon Tester
+2309,s308-114,Barbara Boxer
+2310,s3080-114,Dianne Feinstein
+2311,s3081-114,Bill Cassidy
+2312,s3082-114,Gary C. Peters
+2313,s3083-114,Robert Menendez
+2314,s3084-114,Cory Gardner
+2315,s3085-114,Pat Roberts
+2316,s3086-114,Cory A. Booker
+2317,s3087-114,Dan Sullivan
+2318,s3088-114,Dan Sullivan
+2319,s3089-114,Tammy Baldwin
+2320,s309-114,Pat Toomey
+2321,s3090-114,Dean Heller
+2322,s3091-114,Angus S. Jr. King
+2323,s3092-114,Dean Heller
+2324,s3093-114,Mazie K. Hirono
+2325,s3094-114,Sherrod Brown
+2326,s3095-114,Cory A. Booker
+2327,s3096-114,Sheldon Whitehouse
+2328,s3097-114,Brian Schatz
+2329,s3098-114,Dan Sullivan
+2330,s3099-114,Bill Nelson
+2331,s31-114,Amy Klobuchar
+2332,s310-114,Bill Cassidy
+2333,s3100-114,Pat Toomey
+2334,s3101-114,Bill Cassidy
+2335,s3102-114,Dean Heller
+2336,s3103-114,Tim Scott
+2337,s3104-114,Edward J. Markey
+2338,s3105-114,Edward J. Markey
+2339,s3106-114,Harry Reid
+2340,s3107-114,Johnny Isakson
+2341,s3108-114,Richard Blumenthal
+2342,s3109-114,Heidi Heitkamp
+2343,s311-114,Robert P. Jr. Casey
+2344,s3110-114,Bill Cassidy
+2345,s3111-114,Rob Portman
+2346,s3112-114,Dean Heller
+2347,s3113-114,Amy Klobuchar
+2348,s3114-114,John McCain
+2349,s3115-114,Roger F. Wicker
+2350,s3116-114,Mark R. Warner
+2351,s3117-114,Lindsey Graham
+2352,s3118-114,Elizabeth Warren
+2353,s3119-114,Cory Gardner
+2354,s312-114,Jack Reed
+2355,s3120-114,David Vitter
+2356,s3121-114,Sheldon Whitehouse
+2357,s3122-114,Brian Schatz
+2358,s3123-114,Mike Lee
+2359,s3124-114,Joni Ernst
+2360,s3125-114,Robert P. Jr. Casey
+2361,s3126-114,Angus S. Jr. King
+2362,s3127-114,Martin Heinrich
+2363,s3128-114,Chuck Grassley
+2364,s3129-114,John Thune
+2365,s313-114,Chuck Grassley
+2366,s3130-114,Edward J. Markey
+2367,s3131-114,Tammy Baldwin
+2368,s3132-114,Deb Fischer
+2369,s3133-114,Robert P. Jr. Casey
+2370,s3134-114,Tammy Baldwin
+2371,s3135-114,Cory Gardner
+2372,s3136-114,Pat Roberts
+2373,s3137-114,Shelley Moore Capito
+2374,s3138-114,Marco Rubio
+2375,s3139-114,Sherrod Brown
+2376,s314-114,Chuck Grassley
+2377,s3140-114,Michael B. Enzi
+2378,s3141-114,Mike Rounds
+2379,s3142-114,Tammy Baldwin
+2380,s3143-114,Jeff Merkley
+2381,s3144-114,Cory A. Booker
+2382,s3145-114,Cory A. Booker
+2383,s3146-114,Robert Menendez
+2384,s3147-114,Mazie K. Hirono
+2385,s3148-114,Edward J. Markey
+2386,s3149-114,Sherrod Brown
+2387,s315-114,Dean Heller
+2388,s3150-114,Edward J. Markey
+2389,s3151-114,Pat Toomey
+2390,s3152-114,Mark R. Warner
+2391,s3153-114,Mike Rounds
+2392,s3154-114,Tammy Baldwin
+2393,s3155-114,Orrin G. Hatch
+2394,s3156-114,Orrin G. Hatch
+2395,s3157-114,Orrin G. Hatch
+2396,s3158-114,Mike Lee
+2397,s3159-114,Martin Heinrich
+2398,s316-114,Mark Steven Kirk
+2399,s3160-114,David Perdue
+2400,s3161-114,Chuck Grassley
+2401,s3162-114,Jack Reed
+2402,s3163-114,Robert Menendez
+2403,s3164-114,Jeanne Shaheen
+2404,s3165-114,Robert Menendez
+2405,s3166-114,Chuck Grassley
+2406,s3167-114,Joe Manchin III
+2407,s3168-114,Christopher S. Murphy
+2408,s3169-114,Lamar Alexander
+2409,s317-114,Mazie K. Hirono
+2410,s3170-114,Marco Rubio
+2411,s3171-114,Edward J. Markey
+2412,s3172-114,Michael F. Bennet
+2413,s3173-114,John Thune
+2414,s3174-114,Angus S. Jr. King
+2415,s3175-114,Ron Wyden
+2416,s3176-114,Sherrod Brown
+2417,s3177-114,Dean Heller
+2418,s3178-114,Robert Menendez
+2419,s3179-114,Heidi Heitkamp
+2420,s318-114,Barbara A. Mikulski
+2421,s3180-114,Heidi Heitkamp
+2422,s3181-114,John Thune
+2423,s3182-114,Orrin G. Hatch
+2424,s3183-114,Jerry Moran
+2425,s3184-114,John Cornyn
+2426,s3185-114,Lisa Murkowski
+2427,s3186-114,Thomas R. Carper
+2428,s3187-114,Jeff Merkley
+2429,s3188-114,Chuck Grassley
+2430,s3189-114,Al Franken
+2431,s319-114,Lisa Murkowski
+2432,s3190-114,Al Franken
+2433,s3191-114,Al Franken
+2434,s3192-114,Steve Daines
+2435,s3193-114,Gary C. Peters
+2436,s3194-114,Cory A. Booker
+2437,s3195-114,Bill Cassidy
+2438,s3196-114,Deb Fischer
+2439,s3197-114,Charles E. Schumer
+2440,s3198-114,Orrin G. Hatch
+2441,s3199-114,Mike Lee
+2442,s32-114,Dianne Feinstein
+2443,s320-114,Elizabeth Warren
+2444,s3200-114,Mike Lee
+2445,s3201-114,Mike Lee
+2446,s3202-114,Lisa Murkowski
+2447,s3203-114,Lisa Murkowski
+2448,s3204-114,Lisa Murkowski
+2449,s3205-114,Mike Lee
+2450,s3206-114,Edward J. Markey
+2451,s3207-114,Charles E. Schumer
+2452,s3208-114,Angus S. Jr. King
+2453,s3209-114,Amy Klobuchar
+2454,s321-114,James Lankford
+2455,s3210-114,Benjamin L. Cardin
+2456,s3211-114,John Cornyn
+2457,s3212-114,Christopher S. Murphy
+2458,s3213-114,James Lankford
+2459,s3214-114,Ron Wyden
+2460,s3215-114,Mike Rounds
+2461,s3216-114,Chuck Grassley
+2462,s3217-114,James M. Inhofe
+2463,s3218-114,Roger F. Wicker
+2464,s3219-114,Bill Nelson
+2465,s322-114,Kelly Ayotte
+2466,s3220-114,Jeanne Shaheen
+2467,s3221-114,Martin Heinrich
+2468,s3222-114,Jeff Merkley
+2469,s3223-114,Patty Murray
+2470,s3224-114,Chuck Grassley
+2471,s3225-114,Edward J. Markey
+2472,s3226-114,Susan M. Collins
+2473,s3227-114,Johnny Isakson
+2474,s3228-114,Marco Rubio
+2475,s3229-114,John Hoeven
+2476,s323-114,Jeanne Shaheen
+2477,s3230-114,Angus S. Jr. King
+2478,s3231-114,Tammy Baldwin
+2479,s3232-114,Edward J. Markey
+2480,s3233-114,Angus S. Jr. King
+2481,s3234-114,John Barrasso
+2482,s3235-114,Tom Udall
+2483,s3236-114,Robert P. Jr. Casey
+2484,s3237-114,Maria Cantwell
+2485,s3238-114,Edward J. Markey
+2486,s3239-114,Michael F. Bennet
+2487,s324-114,Michael B. Enzi
+2488,s3240-114,Michael B. Enzi
+2489,s3241-114,Patrick J. Leahy
+2490,s3242-114,Kelly Ayotte
+2491,s3243-114,Cory Gardner
+2492,s3244-114,Pat Roberts
+2493,s3245-114,Jeff Merkley
+2494,s3246-114,Mazie K. Hirono
+2495,s3247-114,Ron Wyden
+2496,s3248-114,Sherrod Brown
+2497,s3249-114,Mazie K. Hirono
+2498,s325-114,Mark Steven Kirk
+2499,s3250-114,Tom Udall
+2500,s3251-114,Tom Cotton
+2501,s3252-114,Patrick J. Leahy
+2502,s3253-114,Deb Fischer
+2503,s3254-114,John Thune
+2504,s3255-114,Pat Toomey
+2505,s3256-114,Richard Durbin
+2506,s3257-114,Robert Menendez
+2507,s3258-114,Joe Donnelly
+2508,s3259-114,Richard Blumenthal
+2509,s326-114,Jeff Flake
+2510,s3260-114,James M. Inhofe
+2511,s3261-114,Jon Tester
+2512,s3262-114,John Hoeven
+2513,s3263-114,Jerry Moran
+2514,s3264-114,Robert Menendez
+2515,s3265-114,Robert Menendez
+2516,s3266-114,Robert Menendez
+2517,s3267-114,Bob Corker
+2518,s3268-114,Thomas R. Carper
+2519,s3269-114,Dianne Feinstein
+2520,s327-114,Joe Manchin III
+2521,s3270-114,Chuck Grassley
+2522,s3271-114,Michael F. Bennet
+2523,s3272-114,John Cornyn
+2524,s3273-114,Lisa Murkowski
+2525,s3274-114,Rob Portman
+2526,s3275-114,Mark Steven Kirk
+2527,s3276-114,Chuck Grassley
+2528,s3277-114,Richard Blumenthal
+2529,s3278-114,Kirsten E. Gillibrand
+2530,s3279-114,Roy Blunt
+2531,s328-114,Amy Klobuchar
+2532,s3280-114,Bill Cassidy
+2533,s3281-114,Harry Reid
+2534,s3282-114,Roger F. Wicker
+2535,s3283-114,Cory Gardner
+2536,s329-114,Christopher S. Murphy
+2537,s33-114,John Barrasso
+2538,s330-114,Dean Heller
+2539,s331-114,Mike Crapo
+2540,s332-114,Chuck Grassley
+2541,s333-114,Rob Portman
+2542,s334-114,Rob Portman
+2543,s335-114,Chuck Grassley
+2544,s336-114,Ted Cruz
+2545,s337-114,John Cornyn
+2546,s338-114,Richard Burr
+2547,s339-114,Ted Cruz
+2548,s34-114,Rand Paul
+2549,s340-114,Roy Blunt
+2550,s341-114,Pat Toomey
+2551,s342-114,Orrin G. Hatch
+2552,s343-114,Jeff Flake
+2553,s344-114,Michael F. Bennet
+2554,s345-114,Jeanne Shaheen
+2555,s346-114,Ron Wyden
+2556,s347-114,Deb Fischer
+2557,s348-114,Orrin G. Hatch
+2558,s349-114,Chuck Grassley
+2559,s35-114,Jon Tester
+2560,s350-114,Deb Fischer
+2561,s351-114,Dean Heller
+2562,s352-114,Kelly Ayotte
+2563,s353-114,Rand Paul
+2564,s354-114,Jack Reed
+2565,s355-114,Tim Kaine
+2566,s356-114,Mike Lee
+2567,s357-114,Jeff Flake
+2568,s358-114,Jeanne Shaheen
+2569,s359-114,Bill Cassidy
+2570,s36-114,Dianne Feinstein
+2571,s360-114,Mike Crapo
+2572,s361-114,Mike Lee
+2573,s362-114,Roy Blunt
+2574,s363-114,Chuck Grassley
+2575,s364-114,Roy Blunt
+2576,s365-114,Orrin G. Hatch
+2577,s366-114,Jon Tester
+2578,s367-114,Jon Tester
+2579,s368-114,Pat Toomey
+2580,s369-114,Amy Klobuchar
+2581,s37-114,Jack Reed
+2582,s370-114,Dianne Feinstein
+2583,s371-114,Lisa Murkowski
+2584,s372-114,Shelley Moore Capito
+2585,s373-114,Marco Rubio
+2586,s374-114,Jeanne Shaheen
+2587,s375-114,Benjamin L. Cardin
+2588,s376-114,Mark Steven Kirk
+2589,s377-114,Charles E. Schumer
+2590,s378-114,Chuck Grassley
+2591,s379-114,Christopher A. Coons
+2592,s38-114,John Thune
+2593,s380-114,Pat Toomey
+2594,s381-114,Rob Portman
+2595,s382-114,Kelly Ayotte
+2596,s383-114,Mike Crapo
+2597,s384-114,Mike Crapo
+2598,s385-114,Michael B. Enzi
+2599,s386-114,John Thune
+2600,s387-114,Lisa Murkowski
+2601,s388-114,Cory A. Booker
+2602,s389-114,Mazie K. Hirono
+2603,s39-114,Dean Heller
+2604,s390-114,Jon Tester
+2605,s391-114,Rand Paul
+2606,s392-114,Joe Donnelly
+2607,s393-114,Barbara Boxer
+2608,s394-114,Robert P. Jr. Casey
+2609,s395-114,Chuck Grassley
+2610,s396-114,Richard Durbin
+2611,s397-114,John McCain
+2612,s398-114,Jerry Moran
+2613,s399-114,Deb Fischer
+2614,s40-114,Patrick J. Leahy
+2615,s400-114,Daniel Coats
+2616,s401-114,Chuck Grassley
+2617,s402-114,Al Franken
+2618,s403-114,Amy Klobuchar
+2619,s404-114,Marco Rubio
+2620,s405-114,Lisa Murkowski
+2621,s406-114,Robert Menendez
+2622,s407-114,Robert Menendez
+2623,s408-114,Debbie Stabenow
+2624,s409-114,Richard Burr
+2625,s41-114,Dean Heller
+2626,s410-114,Tom Udall
+2627,s411-114,John Barrasso
+2628,s412-114,Barbara A. Mikulski
+2629,s413-114,Jack Reed
+2630,s414-114,Dianne Feinstein
+2631,s415-114,Tom Udall
+2632,s416-114,Tom Udall
+2633,s417-114,Amy Klobuchar
+2634,s418-114,Tom Udall
+2635,s419-114,Tom Udall
+2636,s42-114,David Vitter
+2637,s420-114,Pat Toomey
+2638,s421-114,Dean Heller
+2639,s422-114,Rob Portman
+2640,s423-114,Jerry Moran
+2641,s424-114,Marco Rubio
+2642,s425-114,John Boozman
+2643,s426-114,Kelly Ayotte
+2644,s427-114,Jeanne Shaheen
+2645,s428-114,Sherrod Brown
+2646,s429-114,Tammy Baldwin
+2647,s43-114,David Vitter
+2648,s430-114,Barbara Boxer
+2649,s431-114,John Thune
+2650,s432-114,Michael B. Enzi
+2651,s433-114,Jeff Sessions
+2652,s434-114,Jon Tester
+2653,s435-114,Ted Cruz
+2654,s436-114,Robert Menendez
+2655,s437-114,Lisa Murkowski
+2656,s438-114,John Barrasso
+2657,s439-114,Al Franken
+2658,s44-114,David Vitter
+2659,s440-114,Mike Crapo
+2660,s441-114,Bill Nelson
+2661,s442-114,Jeanne Shaheen
+2662,s443-114,Amy Klobuchar
+2663,s444-114,Jeanne Shaheen
+2664,s445-114,Jeanne Shaheen
+2665,s446-114,Barbara Boxer
+2666,s447-114,Jeanne Shaheen
+2667,s448-114,Jerry Moran
+2668,s449-114,Rob Portman
+2669,s45-114,David Vitter
+2670,s450-114,Richard Durbin
+2671,s451-114,Tammy Baldwin
+2672,s452-114,James M. Inhofe
+2673,s453-114,Bill Cassidy
+2674,s454-114,Lamar Alexander
+2675,s455-114,Pat Roberts
+2676,s456-114,Thomas R. Carper
+2677,s457-114,Rand Paul
+2678,s458-114,John Cornyn
+2679,s459-114,John Boozman
+2680,s46-114,David Vitter
+2681,s460-114,Rob Portman
+2682,s461-114,John Cornyn
+2683,s462-114,Sherrod Brown
+2684,s463-114,Jeff Flake
+2685,s464-114,Mazie K. Hirono
+2686,s465-114,Tim Kaine
+2687,s466-114,Debbie Stabenow
+2688,s467-114,John Cornyn
+2689,s468-114,Orrin G. Hatch
+2690,s469-114,Patty Murray
+2691,s47-114,David Vitter
+2692,s470-114,John Thune
+2693,s471-114,Dean Heller
+2694,s472-114,Dean Heller
+2695,s473-114,Tom Udall
+2696,s474-114,Pat Toomey
+2697,s475-114,Jeanne Shaheen
+2698,s476-114,Al Franken
+2699,s477-114,Marco Rubio
+2700,s478-114,Tim Kaine
+2701,s479-114,Deb Fischer
+2702,s48-114,David Vitter
+2703,s480-114,Jeanne Shaheen
+2704,s481-114,Orrin G. Hatch
+2705,s482-114,Pat Toomey
+2706,s483-114,Orrin G. Hatch
+2707,s484-114,Pat Roberts
+2708,s485-114,John Boozman
+2709,s486-114,Barbara Boxer
+2710,s487-114,Dianne Feinstein
+2711,s488-114,Charles E. Schumer
+2712,s489-114,John Thune
+2713,s49-114,David Vitter
+2714,s490-114,James M. Inhofe
+2715,s491-114,Amy Klobuchar
+2716,s492-114,Jack Reed
+2717,s493-114,Steve Daines
+2718,s494-114,Lisa Murkowski
+2719,s495-114,Johnny Isakson
+2720,s496-114,Mike Crapo
+2721,s497-114,Patty Murray
+2722,s498-114,John Cornyn
+2723,s499-114,Orrin G. Hatch
+2724,s50-114,David Vitter
+2725,s500-114,Michael B. Enzi
+2726,s501-114,Tom Udall
+2727,s502-114,Mike Lee
+2728,s503-114,Bill Nelson
+2729,s504-114,Tammy Baldwin
+2730,s505-114,Rob Portman
+2731,s506-114,Pat Roberts
+2732,s507-114,Marco Rubio
+2733,s508-114,John McCain
+2734,s509-114,Charles E. Schumer
+2735,s51-114,David Vitter
+2736,s510-114,Rob Portman
+2737,s511-114,Barbara Boxer
+2738,s512-114,Orrin G. Hatch
+2739,s513-114,Edward J. Markey
+2740,s514-114,Christopher S. Murphy
+2741,s515-114,Brian Schatz
+2742,s516-114,Christopher S. Murphy
+2743,s517-114,Ron Wyden
+2744,s518-114,Benjamin L. Cardin
+2745,s519-114,Benjamin L. Cardin
+2746,s52-114,David Vitter
+2747,s520-114,Benjamin L. Cardin
+2748,s521-114,Benjamin L. Cardin
+2749,s522-114,Sherrod Brown
+2750,s523-114,Susan M. Collins
+2751,s524-114,Sheldon Whitehouse
+2752,s525-114,Bob Corker
+2753,s526-114,Benjamin L. Cardin
+2754,s527-114,Jeff Sessions
+2755,s528-114,Robert P. Jr. Casey
+2756,s529-114,Chuck Grassley
+2757,s53-114,David Vitter
+2758,s530-114,Jack Reed
+2759,s531-114,Jeff Flake
+2760,s532-114,Richard Blumenthal
+2761,s533-114,Maria Cantwell
+2762,s534-114,Susan M. Collins
+2763,s535-114,Rob Portman
+2764,s536-114,Tom Udall
+2765,s537-114,Thomas R. Carper
+2766,s538-114,Mike Crapo
+2767,s539-114,Benjamin L. Cardin
+2768,s54-114,David Vitter
+2769,s540-114,Susan M. Collins
+2770,s541-114,Sherrod Brown
+2771,s542-114,Daniel Coats
+2772,s543-114,John Boozman
+2773,s544-114,John Barrasso
+2774,s545-114,John Thune
+2775,s546-114,Heidi Heitkamp
+2776,s547-114,Robert Menendez
+2777,s548-114,Michael B. Enzi
+2778,s549-114,Michael B. Enzi
+2779,s55-114,David Vitter
+2780,s550-114,Michael B. Enzi
+2781,s551-114,Dianne Feinstein
+2782,s552-114,James E. Risch
+2783,s553-114,Bob Corker
+2784,s554-114,Benjamin L. Cardin
+2785,s555-114,Marco Rubio
+2786,s556-114,Lisa Murkowski
+2787,s557-114,Al Franken
+2788,s558-114,Thomas R. Carper
+2789,s559-114,Richard Burr
+2790,s56-114,David Vitter
+2791,s560-114,Orrin G. Hatch
+2792,s561-114,Mike Crapo
+2793,s562-114,Dean Heller
+2794,s563-114,Jerry Moran
+2795,s564-114,Jerry Moran
+2796,s565-114,Gary C. Peters
+2797,s566-114,Rob Portman
+2798,s567-114,Michael B. Enzi
+2799,s568-114,Sherrod Brown
+2800,s569-114,Patrick J. Leahy
+2801,s57-114,David Vitter
+2802,s570-114,Bernard Sanders
+2803,s571-114,James M. Inhofe
+2804,s572-114,Mark Steven Kirk
+2805,s573-114,John Boozman
+2806,s574-114,Tim Scott
+2807,s575-114,Mark Steven Kirk
+2808,s576-114,Pat Toomey
+2809,s577-114,Pat Toomey
+2810,s578-114,Susan M. Collins
+2811,s579-114,Chuck Grassley
+2812,s58-114,David Vitter
+2813,s580-114,Sheldon Whitehouse
+2814,s581-114,Sheldon Whitehouse
+2815,s582-114,Roger F. Wicker
+2816,s583-114,James E. Risch
+2817,s584-114,John Thune
+2818,s585-114,Edward J. Markey
+2819,s586-114,Jeanne Shaheen
+2820,s587-114,Ron Wyden
+2821,s588-114,Richard Durbin
+2822,s589-114,Debbie Stabenow
+2823,s59-114,David Vitter
+2824,s590-114,Claire McCaskill
+2825,s591-114,Roy Blunt
+2826,s592-114,Marco Rubio
+2827,s593-114,John Barrasso
+2828,s594-114,Joe Donnelly
+2829,s595-114,Tom Cotton
+2830,s596-114,Dianne Feinstein
+2831,s597-114,Thom Tillis
+2832,s598-114,Benjamin L. Cardin
+2833,s599-114,Benjamin L. Cardin
+2834,s6-114,Tom Udall
+2835,s60-114,David Vitter
+2836,s600-114,Amy Klobuchar
+2837,s601-114,Heidi Heitkamp
+2838,s602-114,Ron Wyden
+2839,s603-114,Jon Tester
+2840,s604-114,Jon Tester
+2841,s605-114,Michael F. Bennet
+2842,s606-114,Jon Tester
+2843,s607-114,Chuck Grassley
+2844,s608-114,Debbie Stabenow
+2845,s609-114,Charles E. Schumer
+2846,s61-114,David Vitter
+2847,s610-114,Benjamin L. Cardin
+2848,s611-114,Roger F. Wicker
+2849,s612-114,John Cornyn
+2850,s613-114,Kirsten E. Gillibrand
+2851,s614-114,Thomas R. Carper
+2852,s615-114,Bob Corker
+2853,s616-114,Susan M. Collins
+2854,s617-114,Edward J. Markey
+2855,s618-114,Mike Lee
+2856,s619-114,Benjamin L. Cardin
+2857,s62-114,David Vitter
+2858,s620-114,Lamar Alexander
+2859,s621-114,Dianne Feinstein
+2860,s622-114,Jack Reed
+2861,s623-114,Ron Johnson
+2862,s624-114,Sherrod Brown
+2863,s625-114,Mitch McConnell
+2864,s626-114,Chuck Grassley
+2865,s627-114,Kelly Ayotte
+2866,s628-114,Mark Steven Kirk
+2867,s629-114,Rob Portman
+2868,s63-114,David Vitter
+2869,s630-114,Dianne Feinstein
+2870,s631-114,Lisa Murkowski
+2871,s632-114,Christopher A. Coons
+2872,s633-114,Rand Paul
+2873,s634-114,Cory Gardner
+2874,s635-114,Edward J. Markey
+2875,s636-114,Tom Udall
+2876,s637-114,Mike Crapo
+2877,s638-114,Jeff Flake
+2878,s639-114,Jeff Flake
+2879,s64-114,David Vitter
+2880,s640-114,Jeff Flake
+2881,s641-114,Gary C. Peters
+2882,s642-114,Jeanne Shaheen
+2883,s643-114,Robert P. Jr. Casey
+2884,s644-114,Lisa Murkowski
+2885,s645-114,Robert P. Jr. Casey
+2886,s646-114,Rob Portman
+2887,s647-114,Ted Cruz
+2888,s648-114,Chuck Grassley
+2889,s649-114,Mike Lee
+2890,s65-114,David Vitter
+2891,s650-114,Roy Blunt
+2892,s651-114,Barbara Boxer
+2893,s652-114,Rand Paul
+2894,s653-114,Benjamin L. Cardin
+2895,s654-114,Pat Roberts
+2896,s655-114,John Thune
+2897,s656-114,Rob Portman
+2898,s657-114,Richard Durbin
+2899,s658-114,John Thune
+2900,s659-114,Dan Sullivan
+2901,s66-114,David Vitter
+2902,s660-114,Patty Murray
+2903,s661-114,Patty Murray
+2904,s662-114,Orrin G. Hatch
+2905,s663-114,Rand Paul
+2906,s664-114,Heidi Heitkamp
+2907,s665-114,Benjamin L. Cardin
+2908,s666-114,Al Franken
+2909,s667-114,Michael B. Enzi
+2910,s668-114,Edward J. Markey
+2911,s669-114,Barbara Boxer
+2912,s67-114,David Vitter
+2913,s670-114,Tom Cotton
+2914,s671-114,Robert P. Jr. Casey
+2915,s672-114,Robert P. Jr. Casey
+2916,s673-114,Ben Sasse
+2917,s674-114,Patty Murray
+2918,s675-114,Rand Paul
+2919,s676-114,Bill Nelson
+2920,s677-114,Barbara Boxer
+2921,s678-114,James M. Inhofe
+2922,s679-114,Tammy Baldwin
+2923,s68-114,David Vitter
+2924,s680-114,Sherrod Brown
+2925,s681-114,Kirsten E. Gillibrand
+2926,s682-114,Joe Donnelly
+2927,s683-114,Cory A. Booker
+2928,s684-114,Richard Burr
+2929,s685-114,David Vitter
+2930,s686-114,Chuck Grassley
+2931,s687-114,Christopher A. Coons
+2932,s688-114,Joe Manchin III
+2933,s689-114,John Thune
+2934,s69-114,David Vitter
+2935,s690-114,James M. Inhofe
+2936,s691-114,Harry Reid
+2937,s692-114,Charles E. Schumer
+2938,s693-114,Bill Nelson
+2939,s694-114,James E. Risch
+2940,s695-114,Pat Toomey
+2941,s696-114,Tammy Baldwin
+2942,s697-114,Tom Udall
+2943,s698-114,Michael B. Enzi
+2944,s699-114,Charles E. Schumer
+2945,s70-114,David Vitter
+2946,s700-114,Richard Durbin
+2947,s701-114,Mike Crapo
+2948,s702-114,Jack Reed
+2949,s703-114,Christopher A. Coons
+2950,s704-114,Chuck Grassley
+2951,s705-114,Thad Cochran
+2952,s706-114,Barbara Boxer
+2953,s707-114,Edward J. Markey
+2954,s708-114,Angus S. Jr. King
+2955,s709-114,Pat Roberts
+2956,s71-114,David Vitter
+2957,s710-114,John Barrasso
+2958,s711-114,Kelly Ayotte
+2959,s712-114,Mazie K. Hirono
+2960,s713-114,Barbara Boxer
+2961,s714-114,Joe Donnelly
+2962,s715-114,Joe Donnelly
+2963,s716-114,Marco Rubio
+2964,s717-114,Joe Donnelly
+2965,s718-114,Mark R. Warner
+2966,s719-114,Jon Tester
+2967,s72-114,David Vitter
+2968,s720-114,Rob Portman
+2969,s721-114,Michael F. Bennet
+2970,s722-114,Christopher A. Coons
+2971,s723-114,Brian Schatz
+2972,s724-114,Chuck Grassley
+2973,s725-114,Barbara Boxer
+2974,s726-114,Daniel Coats
+2975,s727-114,Angus S. Jr. King
+2976,s728-114,Charles E. Schumer
+2977,s729-114,Richard Durbin
+2978,s73-114,David Vitter
+2979,s730-114,Richard Blumenthal
+2980,s731-114,Bernard Sanders
+2981,s732-114,Jon Tester
+2982,s733-114,Mazie K. Hirono
+2983,s734-114,Kelly Ayotte
+2984,s735-114,Jeff Merkley
+2985,s736-114,Michael B. Enzi
+2986,s737-114,Sherrod Brown
+2987,s738-114,Lisa Murkowski
+2988,s739-114,John Hoeven
+2989,s74-114,David Vitter
+2990,s740-114,Orrin G. Hatch
+2991,s741-114,Benjamin L. Cardin
+2992,s742-114,Kelly Ayotte
+2993,s743-114,John Boozman
+2994,s744-114,Marco Rubio
+2995,s745-114,John Cornyn
+2996,s746-114,Chuck Grassley
+2997,s747-114,Richard Durbin
+2998,s748-114,Ben Sasse
+2999,s749-114,Rob Portman
+3000,s75-114,David Vitter
+3001,s750-114,John McCain
+3002,s751-114,John Thune
+3003,s752-114,Mike Crapo
+3004,s753-114,Patty Murray
+3005,s754-114,Richard Burr
+3006,s755-114,Lamar Alexander
+3007,s756-114,Benjamin L. Cardin
+3008,s757-114,Bill Nelson
+3009,s758-114,Debbie Stabenow
+3010,s759-114,Gary C. Peters
+3011,s76-114,David Vitter
+3012,s760-114,Dean Heller
+3013,s761-114,Amy Klobuchar
+3014,s762-114,Roger F. Wicker
+3015,s763-114,Jack Reed
+3016,s764-114,Roger F. Wicker
+3017,s765-114,Rob Portman
+3018,s766-114,John Hoeven
+3019,s767-114,Marco Rubio
+3020,s768-114,David Vitter
+3021,s769-114,Roy Blunt
+3022,s77-114,David Vitter
+3023,s770-114,Marco Rubio
+3024,s771-114,Christopher A. Coons
+3025,s772-114,Benjamin L. Cardin
+3026,s773-114,Patty Murray
+3027,s774-114,Jerry Moran
+3028,s775-114,Bill Cassidy
+3029,s776-114,Pat Roberts
+3030,s777-114,Robert P. Jr. Casey
+3031,s778-114,Tom Cotton
+3032,s779-114,John Cornyn
+3033,s78-114,David Vitter
+3034,s780-114,Richard Durbin
+3035,s781-114,Joe Donnelly
+3036,s782-114,John McCain
+3037,s783-114,Chuck Grassley
+3038,s784-114,Martin Heinrich
+3039,s785-114,Robert P. Jr. Casey
+3040,s786-114,Kirsten E. Gillibrand
+3041,s787-114,Claire McCaskill
+3042,s788-114,Claire McCaskill
+3043,s789-114,Barbara A. Mikulski
+3044,s79-114,David Vitter
+3045,s790-114,Rand Paul
+3046,s791-114,Ted Cruz
+3047,s792-114,Richard C. Shelby
+3048,s793-114,Elizabeth Warren
+3049,s794-114,Claire McCaskill
+3050,s795-114,Claire McCaskill
+3051,s796-114,Patty Murray
+3052,s797-114,Cory A. Booker
+3053,s798-114,David Vitter
+3054,s799-114,Mitch McConnell
+3055,s80-114,David Vitter
+3056,s800-114,Mark Steven Kirk
+3057,s801-114,Johnny Isakson
+3058,s802-114,Marco Rubio
+3059,s803-114,Kelly Ayotte
+3060,s804-114,Susan M. Collins
+3061,s805-114,Tom Udall
+3062,s806-114,John Boozman
+3063,s807-114,Roy Blunt
+3064,s808-114,John Thune
+3065,s809-114,Marco Rubio
+3066,s81-114,Dianne Feinstein
+3067,s810-114,Orrin G. Hatch
+3068,s811-114,Christopher S. Murphy
+3069,s812-114,Jerry Moran
+3070,s813-114,Rand Paul
+3071,s814-114,Ron Wyden
+3072,s815-114,Ron Wyden
+3073,s816-114,Ron Wyden
+3074,s817-114,Ron Wyden
+3075,s818-114,Ron Wyden
+3076,s819-114,Mark Steven Kirk
+3077,s82-114,David Vitter
+3078,s820-114,Robert P. Jr. Casey
+3079,s821-114,Dianne Feinstein
+3080,s822-114,Ron Wyden
+3081,s823-114,Charles E. Schumer
+3082,s824-114,Jeanne Shaheen
+3083,s825-114,Ted Cruz
+3084,s826-114,Steve Daines
+3085,s827-114,Amy Klobuchar
+3086,s828-114,James M. Inhofe
+3087,s829-114,Chuck Grassley
+3088,s83-114,Dean Heller
+3089,s830-114,Martin Heinrich
+3090,s831-114,Edward J. Markey
+3091,s832-114,Jon Tester
+3092,s833-114,Dianne Feinstein
+3093,s834-114,John Thune
+3094,s835-114,Heidi Heitkamp
+3095,s836-114,John Barrasso
+3096,s837-114,Rand Paul
+3097,s838-114,Richard Durbin
+3098,s839-114,Susan M. Collins
+3099,s84-114,Jeanne Shaheen
+3100,s840-114,Richard Durbin
+3101,s841-114,Joni Ernst
+3102,s842-114,Dean Heller
+3103,s843-114,Sherrod Brown
+3104,s844-114,Edward J. Markey
+3105,s845-114,Marco Rubio
+3106,s846-114,Mark Steven Kirk
+3107,s847-114,John McCain
+3108,s848-114,Claire McCaskill
+3109,s849-114,Johnny Isakson
+3110,s85-114,Angus S. Jr. King
+3111,s850-114,Mark Steven Kirk
+3112,s851-114,John Thune
+3113,s852-114,David Vitter
+3114,s853-114,Tammy Baldwin
+3115,s854-114,Lamar Alexander
+3116,s855-114,Rand Paul
+3117,s856-114,Lamar Alexander
+3118,s857-114,Debbie Stabenow
+3119,s858-114,Cory Gardner
+3120,s859-114,Maria Cantwell
+3121,s86-114,David Vitter
+3122,s860-114,John Thune
+3123,s861-114,Thomas R. Carper
+3124,s862-114,Barbara A. Mikulski
+3125,s863-114,Roger F. Wicker
+3126,s864-114,Barbara Boxer
+3127,s865-114,Jon Tester
+3128,s866-114,Charles E. Schumer
+3129,s867-114,Jeff Merkley
+3130,s868-114,Johnny Isakson
+3131,s869-114,John Hoeven
+3132,s87-114,David Vitter
+3133,s870-114,Richard Durbin
+3134,s871-114,Mitch McConnell
+3135,s872-114,Lisa Murkowski
+3136,s873-114,Lisa Murkowski
+3137,s874-114,Marco Rubio
+3138,s875-114,Deb Fischer
+3139,s876-114,Pat Roberts
+3140,s877-114,Brian Schatz
+3141,s878-114,Bernard Sanders
+3142,s879-114,Amy Klobuchar
+3143,s88-114,David Vitter
+3144,s880-114,Brian Schatz
+3145,s881-114,Mike Crapo
+3146,s882-114,Robert P. Jr. Casey
+3147,s883-114,Lisa Murkowski
+3148,s884-114,Roy Blunt
+3149,s885-114,Elizabeth Warren
+3150,s886-114,Tom Udall
+3151,s887-114,Edward J. Markey
+3152,s888-114,Brian Schatz
+3153,s889-114,Rand Paul
+3154,s89-114,David Vitter
+3155,s890-114,Maria Cantwell
+3156,s891-114,Sherrod Brown
+3157,s892-114,Lindsey Graham
+3158,s893-114,Mark R. Warner
+3159,s894-114,Amy Klobuchar
+3160,s895-114,Jon Tester
+3161,s896-114,Tom Udall
+3162,s897-114,Richard Blumenthal
+3163,s898-114,Mark Steven Kirk
+3164,s899-114,Tammy Baldwin
+3165,s90-114,David Vitter
+3166,s900-114,Richard Blumenthal
+3167,s901-114,Jerry Moran
+3168,s902-114,Charles E. Schumer
+3169,s903-114,Orrin G. Hatch
+3170,s904-114,Orrin G. Hatch
+3171,s905-114,Orrin G. Hatch
+3172,s906-114,Orrin G. Hatch
+3173,s907-114,Orrin G. Hatch
+3174,s908-114,Orrin G. Hatch
+3175,s909-114,Orrin G. Hatch
+3176,s91-114,Dean Heller
+3177,s910-114,Orrin G. Hatch
+3178,s911-114,Robert P. Jr. Casey
+3179,s912-114,Orrin G. Hatch
+3180,s913-114,Orrin G. Hatch
+3181,s914-114,Orrin G. Hatch
+3182,s915-114,Orrin G. Hatch
+3183,s916-114,Orrin G. Hatch
+3184,s917-114,Orrin G. Hatch
+3185,s918-114,Orrin G. Hatch
+3186,s919-114,Orrin G. Hatch
+3187,s92-114,David Vitter
+3188,s920-114,Orrin G. Hatch
+3189,s921-114,Thomas R. Carper
+3190,s922-114,Bernard Sanders
+3191,s923-114,Lindsey Graham
+3192,s924-114,Dean Heller
+3193,s925-114,Jeanne Shaheen
+3194,s926-114,Tammy Baldwin
+3195,s927-114,Jerry Moran
+3196,s928-114,Kirsten E. Gillibrand
+3197,s929-114,Richard C. Shelby
+3198,s93-114,David Vitter
+3199,s930-114,Patrick J. Leahy
+3200,s931-114,Patrick J. Leahy
+3201,s932-114,Patrick J. Leahy
+3202,s933-114,Lamar Alexander
+3203,s934-114,Jeff Flake
+3204,s935-114,Cory A. Booker
+3205,s936-114,Sherrod Brown
+3206,s937-114,Orrin G. Hatch
+3207,s938-114,Robert Menendez
+3208,s939-114,Jeff Flake
+3209,s94-114,David Vitter
+3210,s940-114,Jeanne Shaheen
+3211,s941-114,Rob Portman
+3212,s942-114,Rob Portman
+3213,s943-114,Rob Portman
+3214,s944-114,Barbara Boxer
+3215,s945-114,Edward J. Markey
+3216,s946-114,Mark Steven Kirk
+3217,s947-114,James M. Inhofe
+3218,s948-114,James M. Inhofe
+3219,s949-114,John Cornyn
+3220,s95-114,David Vitter
+3221,s950-114,Robert P. Jr. Casey
+3222,s951-114,Kelly Ayotte
+3223,s952-114,Kelly Ayotte
+3224,s953-114,Dean Heller
+3225,s954-114,Joe Manchin III
+3226,s955-114,Mazie K. Hirono
+3227,s956-114,Heidi Heitkamp
+3228,s957-114,Jeanne Shaheen
+3229,s958-114,Michael B. Enzi
+3230,s959-114,Maria Cantwell
+3231,s96-114,David Vitter
+3232,s960-114,Mazie K. Hirono
+3233,s961-114,Thomas R. Carper
+3234,s962-114,Jack Reed
+3235,s963-114,Mazie K. Hirono
+3236,s964-114,Bernard Sanders
+3237,s965-114,Susan M. Collins
+3238,s966-114,Jeanne Shaheen
+3239,s967-114,Jeanne Shaheen
+3240,s968-114,Kirsten E. Gillibrand
+3241,s969-114,Pat Toomey
+3242,s97-114,David Vitter
+3243,s970-114,Pat Toomey
+3244,s971-114,Ron Wyden
+3245,s972-114,Cory Gardner
+3246,s973-114,Christopher S. Murphy
+3247,s974-114,Richard Durbin
+3248,s975-114,Richard Durbin
+3249,s976-114,Patty Murray
+3250,s977-114,Tammy Baldwin
+3251,s978-114,Christopher S. Murphy
+3252,s979-114,Bill Nelson
+3253,s98-114,David Vitter
+3254,s980-114,Rand Paul
+3255,s981-114,Rand Paul
+3256,s982-114,John Barrasso
+3257,s983-114,Thom Tillis
+3258,s984-114,David Vitter
+3259,s985-114,Christopher S. Murphy
+3260,s986-114,Tom Udall
+3261,s987-114,Ron Wyden
+3262,s988-114,Richard Durbin
+3263,s989-114,Daniel Coats
+3264,s99-114,David Vitter
+3265,s990-114,Ron Wyden
+3266,s991-114,Patty Murray
+3267,s992-114,Shelley Moore Capito
+3268,s993-114,Al Franken
+3269,s994-114,Cory A. Booker
+3270,s995-114,Orrin G. Hatch
+3271,s996-114,Sherrod Brown
+3272,s997-114,Cory Gardner
+3273,s998-114,Rob Portman
+3274,s999-114,David Vitter
