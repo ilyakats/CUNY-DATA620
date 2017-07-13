@@ -1,0 +1,33 @@
+summer2017 = [(u'Mauricio','male'),
+              (u'Sekhar','male'),
+              (u'Aadi','male'),
+              (u'Srinivasa','male'),
+              (u'Param','male'),
+              (u'Pavan','male'),
+              (u'Nathan','male'),
+              (u'Seoungyoon','male'),
+              (u'Christophe','male'),
+              (u'Joel','male'),
+              (u'Ilya','male'),
+              (u'Blandon','male'),
+              (u'Kelly','female'),
+              (u'Michael','male'),
+              (u'Xiaomeng','female'),
+              (u'Vivian','female'),
+              (u'Raphael','male'),
+              (u'Nicholas','male'),
+              (u'John','male'),
+              (u'Ken','male'),
+              (u'Armenoush','female'),
+              (u'Andrew','male'),
+              (u'Georgia','female'),
+              (u'Arindam','male'),
+              (u'Christopher','male'),
+              (u'Musa','male'),
+              (u'Sanjive','male')]
+
+summer2017preds = pd.DataFrame({'name': [n for (n,gender) in summer2017],
+                                'observed': [gender for (n,gender) in summer2017],
+                                'predicted': [classifier.classify(gender_features(n)) for (n,g) in summer2017]})
+
+summer2017preds
